@@ -1,0 +1,2301 @@
+[
+  {
+    "name": "360 Yes Scope",
+    "firstList": "Scope",
+    "secondList": "A.W.P.|Sniper Rifle",
+    "numberOf": 1,
+    "description": "Spinning 360 degrees provides a 3-second buff that gives the next shot a 1.5x damage multiplier. The buff stacks if the player spins multiple times."
+  },
+  {
+    "name": "Absent Minded",
+    "firstList": "The Membrane|Bouncy Bullets",
+    "description": "The Membrane's shots bounce 4 times and become homing."
+  },
+  {
+    "name": "Added Effect - Fire",
+    "firstList": "Alpha Bullet|Hot Lead",
+    "description": "The first shot of each magazine is guaranteed to be a fire bullet."
+  },
+  {
+    "name": "Added Effect - Ice",
+    "firstList": "Alpha Bullet|Frost Bullets",
+    "description": "The first shot of each magazine is guaranteed to be an ice bullet."
+  },
+  {
+    "name": "Added Effect - Poison",
+    "firstList": "Alpha Bullet|Irradiated Lead",
+    "description": "The first shot of each magazine is guaranteed to be a poison bullet."
+  },
+  {
+    "name": "Akey Breaky",
+    "firstList": "AKEY-47|Shelleton Key",
+    "description": "AKEY-47 receives a damage boost (10 damage per bullet), infinite ammo, and changes in appearance to resemble a Shelleton and can no longer open locks by shooting at them.",
+    "lastColumn": "Akey Breaky.png"
+  },
+  {
+    "name": "AI Assistant",
+    "firstList": "Roll Bomb|iBomb Companion App",
+    "description": "Roll bombs will bounce around instead of detonating immediately, and can be manually detonated with iBomb Companion App."
+  },
+  {
+    "name": "Air Support",
+    "firstList": "Air Strike|Explosive Rounds",
+    "description": "Air Strike covers a massive area."
+  },
+  {
+    "name": "AK-47 (Island Forme)",
+    "firstList": "AK-47|Orange",
+    "description": "Pressing reload with a full magazine toggles Island Forme. Island Forme AK-47 fires oranges, which deal more damage than regular AK-47 shots. Each orange does 7 damage per shot, as opposed to the usual 5.5.",
+    "lastColumn": "AK-47_(Island_Forme).png"
+  },
+  {
+    "name": "Alas, Sniperion",
+    "firstList": "Crown of Guns|Crescent Crossbow",
+    "description": "Crown of Guns transforms into a tiara that fires higher-damage crescent-shaped bullets."
+  },
+  {
+    "name": "Alistair's Ladder",
+    "firstList": "Thunderclap|Shock Rounds",
+    "description": "Thunderclap shoots 2 bullets instead of one.",
+    "lastColumn": "Alistair's_Ladder.png"
+  },
+  {
+    "name": "All Out Of Law",
+    "firstList": "Colt 1851",
+    "secondList": "Table Tech Sight|Escape Rope|Heart Holster|Hip Holster",
+    "numberOf": 1,
+    "description": "Colt 1851 fires three tight spreads of three free bullets upon reloading. These projectiles ignore tables when fired from behind them."
+  },
+  {
+    "name": "Alternative Rock",
+    "firstList": "Face Melter",
+    "secondList": "Drum Clip|Melted Rock|Gilded Bullets|Platinum Bullets|Heavy Bullets|Ruby Bracelet",
+    "numberOf": 1,
+    "description": "Face Melter fires two parallel columns of notes, shoots a guitar pick with a chance to stun upon reloading, and changes appearance to that of a Dean Z Blue Burst guitar. ",
+    "lastColumn": "Alternative Rock.png"
+  },
+  {
+    "name": "Ancient Aliens",
+    "firstList": "Zorgun|Alien Engine",
+    "description": "Gives Zorgun 3 Final Shots, and gives Alien Engine occasional Zorgun bullets."
+  },
+  {
+    "name": "Anti-Aircraft",
+    "firstList": "RPG|Flak Bullets",
+    "description": "RPG spawns 7 homing flak bullets upon impact."
+  },
+  {
+    "name": "Antichamber",
+    "firstList": "Dark Marker|Antibody",
+    "description": "Dark Marker alternates between firing red and blue shots that become very slow and large after traveling a short distance. If any red and blue shots touch, the blank effect is activated."
+  },
+  {
+    "name": "Apiary",
+    "firstList": "Bee Hive|Box",
+    "description": "Bee Hive turns into an apiary and automatically regenerates ammo over time.",
+    "lastColumn": "Apiary.png"
+  },
+  {
+    "name": "Assault and Battery",
+    "firstList": "Shock Rifle|M16",
+    "description": "The guns are dual-wielded."
+  },
+  {
+    "name": "Arctic Warfare",
+    "firstList": "A.W.P.",
+    "secondList": "Frost Bullets|Heart of Ice|Frost Ammolet|Snowballets",
+    "numberOf": 1,
+    "description": "A.W.P.'s color changes to orange and white, its shots freeze enemies, and it deals 62.5% more damage.",
+    "lastColumn": "Arctic Warfare.png"
+  },
+  {
+    "name": "Armored Corps",
+    "firstList": "AC-15|Void Core Assault Rifle",
+    "description": "Both guns gain increased shot speed and deal 25% more damage."
+  },
+  {
+    "name": "Backdraft",
+    "firstList": "Armor of Thorns",
+    "secondList": "Ring of Fire Resistance|Copper Ammolet|Ruby Bracelet",
+    "numberOf": 1,
+    "description": "Touching enemies sets them on fire."
+  },
+  {
+    "name": "Bacon and Eggs",
+    "firstList": "The Scrambler|Pig",
+    "description": "Increases the speed of The Scrambler's eggs by 50%."
+  },
+  {
+    "name": "Banshee Cry",
+    "firstList": "Screecher|Dueling Laser",
+    "description": "Screecher fires a cone of three waves per shot."
+  },
+  {
+    "name": "Barrage Shot",
+    "firstList": "Charge Shot|Jetpack",
+    "description": "Decreases the charge time of Charge Shot by 25%, decreases reload time by 33%, and increases shot size."
+  },
+  {
+    "name": "Battery Powered",
+    "firstList": "Shock Rifle",
+    "numberOf": 1,
+    "secondList": "R2G2|Shock Rounds",
+    "description": "Shock Rifle slowly regenerates ammo over time.",
+    "lastColumn": "Battery_Powered.png"
+  },
+  {
+    "name": "Battle Mode",
+    "firstList": "Orbital Bullets",
+    "numberOf": 1,
+    "secondList": "Bomb|Ice Bomb",
+    "description": "Bombs periodically spawn and orbit the player, exploding and dealing 40 damage upon touching an enemy."
+  },
+  {
+    "name": "Bee Plus",
+    "firstList": "Honeycomb|Jar of Bees",
+    "description": "Taking damage causes Honeycomb to spawn hornets, which travel faster and deal more damage than regular bees."
+  },
+  {
+    "name": "BEES",
+    "firstList": "Bee Hive",
+    "numberOf": 1,
+    "secondList": "Honeycomb|Bumbullets",
+    "description": "Doubles the size of Bee Hive's bees and increases their damage by 25%, but decreases Bee Hive's rate of fire by 34%."
+  },
+  {
+    "name": "Behold!",
+    "firstList": "Com4nd0|Eye of the Beholster|M1911|Machine Pistol|Trank Gun|Void Marshal",
+    "description": "When Eye of the Beholster is held, the other five guns rotate around the player and shoot at nearby enemies, still using up ammo from each gun.Obtainable through the [[Shrines|Beholster Shrine]]."
+  },
+  {
+    "name": "Beta Ray",
+    "firstList": "Gamma Ray|Irradiated Lead",
+    "description": "Gamma Ray's beam grows larger and deals more damage.",
+    "lastColumn": "Beta Ray.png"
+  },
+  {
+    "name": "Betrayer's Lies",
+    "firstList": "Betrayer's Shield|Lies",
+    "description": "Betrayer's Shield gains infinite ammo, a much larger magazine size, and extremely high fire rate. Like other guns with infinite ammo, it cannot reveal secret rooms.",
+    "lastColumn": "Betrayer's Lies.png"
+  },
+  {
+    "name": "Big Shotgun Gun",
+    "firstList": "BSG|Big Shotgun",
+    "description": "Big Shotgun fires 4 projectiles instead of 3. The player also has an extended roll while holding the Big Shotgun."
+  },
+  {
+    "name": "Birthright",
+    "firstList": "Baby Good Shelleton|Shellegun",
+    "description": "While Shellegun is held, Baby Good Shelleton alternates between its laser and a wide-angle shot similar to the Shelleton enemy."
+  },
+  {
+    "name": "Black Flag",
+    "firstList": "Corsair",
+    "numberOf": 1,
+    "secondList": "Serious Cannon|Grappling Hook",
+    "description": "Corsair gains a black flag, and every Corsair shot will periodically fire two bouncing cannonballs perpendicular to itself as it travels.",
+    "lastColumn": "Black Flag.png"
+  },
+  {
+    "name": "blade",
+    "firstList": "Kruller Glaive",
+    "numberOf": 1,
+    "secondList": "Blood Brooch|Ring of Chest Vampirism",
+    "description": "Kruller Glaive's damage is increased by 20%, enemies hit will visually bleed, and [[Curse|jammed]] enemies will revert to normal on hit."
+  },
+  {
+    "name": "Blade Runner",
+    "firstList": "Deck4rd|Origuni",
+    "description": "Increases the magazine size of both weapons by 50%."
+  },
+  {
+    "name": "Blammo!",
+    "firstList": "Bullet|Shell",
+    "description": "The guns are dual-wielded."
+  },
+  {
+    "name": "Blank Generation",
+    "firstList": "Elder Blank|Blank Companion's Ring",
+    "description": "Companion changes appearance to be older, automatically fires a second blank after Elder Blank's blank duration ends.",
+    "lastColumn": "Blank Generation.png"
+  },
+  {
+    "name": "Blast Crown",
+    "firstList": "Crown of Guns|Blast Helmet",
+    "description": "Crown of Guns has a chance to fire explosives."
+  },
+  {
+    "name": "Blessing and a Curse",
+    "firstList": "Cursed Bullets|Silver Bullets",
+    "description": "Every jammed enemy killed grants a persistent, additive 0.25% damage buff."
+  },
+  {
+    "name": "Block Party",
+    "firstList": "Brick Breaker|Mustache",
+    "description": "Increases the size of Brick Breaker's shells by 50%, and increases their damage by 25%."
+  },
+  {
+    "name": "Bluer Guon Stone",
+    "firstList": "Blue Guon Stone",
+    "numberOf": 1,
+    "secondList": "+1 Bullets|Bullet Time|Amulet of the Pit Lord",
+    "description": "Blue Guon Stone's size and rotation speed is increased. If Blue Guon Stone blocks a bullet, it deals 15 damage to all nearby enemies."
+  },
+  {
+    "name": "Blunderbrace",
+    "firstList": "Blunderbuss|Macho Brace",
+    "description": "Blunderbuss gains 50% increased shot speed and 25% larger bullets along with a shorter charge time.",
+    "lastColumn": "Blunderbrace.png"
+  },
+  {
+    "name": "Bomberpal",
+    "firstList": "Bomb|Lil' Bomber",
+    "description": "Lil' Bomber fires two bombs instead of one, charges twice as fast, and has 40% lower reload time."
+  },
+  {
+    "name": "Brave New World",
+    "firstList": "Siren",
+    "numberOf": 1,
+    "secondList": "Trident|Bionic Leg",
+    "description": "While Siren is held, spawns a fish companion which shows what items are inside chests without opening them.",
+    "lastColumn": "Brave New World.png"
+  },
+  {
+    "name": "Breakfast Club",
+    "firstList": "Wind Up Gun|Seven-Leaf Clover",
+    "description": "Halves the reload time of Wind Up Gun, increases fire rate by 60%, and increases damage by 50%. Increases magazine size to 27, and all but the last 10 shots of each magazine will be stronger piercing lasers."
+  },
+  {
+    "name": "Buggin' Out",
+    "firstList": "Bug Boots|Gungeon Ant",
+    "description": "While Gungeon Ant is held, Bug Boots spread oil instead of poison, and the player is immune to fire."
+  },
+  {
+    "name": "Bullet Kiln",
+    "firstList": "Elder Blank",
+    "numberOf": 1,
+    "secondList": "The Kiln|Luxin Cannon",
+    "description": "Using Elder Blank while having The Kiln or Luxin Cannon selected gives one Glass Guon Stone to the player, up to a maximum of four."
+  },
+  {
+    "name": "Bullet or the Egg",
+    "firstList": "The Scrambler|Chicken Flute",
+    "description": "Scrambler shots become larger and split into 10 seekers instead of 5."
+  },
+  {
+    "name": "Bubble Trouble",
+    "firstList": "Bubble Blaster|Siren",
+    "description": "Siren now shoots a single, large bullet, and Bubble Blaster gains homing shots."
+  },
+  {
+    "name": "Buckle Up",
+    "firstList": "Gungine|Ammo Belt",
+    "description": "Gungine has a chance to not consume ammo upon firing. Continuously moving with Gungine held gives the player a yellow glow, significantly increasing Gungine's rate of fire. The glow disappears if the player stops moving. If the player switches to another gun while outlined, they can keep the rate of fire bonus."
+  },
+  {
+    "name": "Buster Gun",
+    "firstList": "Excaliber|RPG",
+    "description": "Excaliber fires 3 or 4 projectiles in a cone when reloaded.",
+    "lastColumn": "Buster Gun.png"
+  },
+  {
+    "name": "Cactus Flower",
+    "firstList": "Cactus",
+    "numberOf": 1,
+    "secondList": "Broccoli|Orange",
+    "description": "Cactus has a chance to shoot out a prickly pear that bounces off walls and shoots needles all around.",
+    "lastColumn": "Cactus Flower.png"
+  },
+  {
+    "name": "Camera Shy",
+    "firstList": "Camera|Chaff Grenade",
+    "description": "Camera has a chance to stun enemies."
+  },
+  {
+    "name": "Captain Plant It",
+    "firstList": "Unity|Portable Turret",
+    "description": "Portable Turret gains Unity's damage bonus."
+  },
+  {
+    "name": "Careful Iteration",
+    "firstList": "Casey",
+    "numberOf": 1,
+    "secondList": "Armor of Thorns|Shotgun Full of Hate|Nail Gun|Eyepatch",
+    "description": "Casey becomes spiked and fires a spread of 6 nails each time it is swung.",
+    "lastColumn": "Careful Iteration.png"
+  },
+  {
+    "name": "Cash Rules Everygun Around Me",
+    "firstList": "Brick of Cash|Briefcase of Cash",
+    "description": "When firing any gun, occasionally fires money which charms enemies."
+  },
+  {
+    "name": "Cast Iron",
+    "firstList": "Big Iron",
+    "numberOf": 1,
+    "secondList": "Bundle of Wands|Witch Pistol|Hexagun",
+    "description": "Gives Big Iron transmogrification effects and replaces each bullet with one from Bundle of Wands, Witch Pistol, and Hexagun."
+  },
+  {
+    "name": "Cat Friend",
+    "firstList": "Cat Claw|Bait Launcher",
+    "description": "Bait Launcher's tigers attach several Cat Claw needles onto enemies when they maul them."
+  },
+  {
+    "name": "Cerebral Bros",
+    "firstList": "Bullet Bore",
+    "numberOf": 1,
+    "secondList": "Bow|Charmed Bow|Explosive Rounds|Cluster Mine",
+    "description": "Bullet Bore fires 2 drills per shot instead of the usual 1.",
+    "lastColumn": "Cerebral Bros.png"
+  },
+  {
+    "name": "Chain Lightning",
+    "firstList": "Shock Rounds|Shadow Bullets",
+    "description": "Increases the range that Shock Rounds connects bullets with electricity. Lightning can also connect to enemy bullets."
+  },
+  {
+    "name": "Chance On Hit",
+    "firstList": "Gunderfury|Silver Bullets",
+    "description": "Gunderfury shots have a chance to slow enemies."
+  },
+  {
+    "name": "Chest High is the Best High",
+    "firstList": "Mourning Star|Cog of Battle",
+    "description": "Increases Mourning Star's damage by 25% and activates the [[Macho Brace]] effect after flipping a table."
+  },
+  {
+    "name": "Chicken Arise",
+    "firstList": "Magic Bullets",
+    "numberOf": 1,
+    "secondList": "Bundle of Wands|Hexagun|Staff of Firepower|Witch Pistol",
+    "description": "Increases the chance for the guns to transmogrify enemies."
+  },
+  {
+    "name": "Chief Master",
+    "firstList": "Alien Sidearm",
+    "numberOf": 2,
+    "secondList": "Master Round I|Master Round II|Master Round III|Master Round IV|Master Round V",
+    "description": "Alien Sidearm has a much larger magazine and cannot be charged, but becomes fully automatic and the final two shots in the magazine are fully-charged shots.",
+    "lastColumn": "Chief Master.png"
+  },
+  {
+    "name": "Circle of Bricks",
+    "firstList": "Brick Breaker|Tetrominator",
+    "description": "The guns are dual-wielded."
+  },
+  {
+    "name": "Clawntlet",
+    "firstList": "Cat Claw|Gunknight Gauntlet",
+    "description": "The player releases a spiral of bullets whenever they take damage."
+  },
+  {
+    "name": "Clearer Guon Stone",
+    "firstList": "Clear Guon Stone",
+    "numberOf": 1,
+    "secondList": "+1 Bullets|Bottle|Amulet of the Pit Lord",
+    "description": "Grants immunity to poison, fire, and electricity. Shooting enemies while standing on fire or ice will burn or freeze them, respectively."
+  },
+  {
+    "name": "Cold 1896",
+    "firstList": "Colt 1851|Cold 45",
+    "description": "The guns are dual-wielded. Both guns' magazine sizes are doubled."
+  },
+  {
+    "name": "Cold Ones",
+    "firstList": "Frost Bullets|Frost Ammolet",
+    "description": "Significantly increases the chance of firing ice bullets."
+  },
+  {
+    "name": "Comammo Belt",
+    "firstList": "Com4nd0|Ammo Belt",
+    "description": "Com4nd0 gains double magazine size and changes appearance.",
+    "lastColumn": "Comammo Belt.png"
+  },
+  {
+    "name": "Contractual Obligation",
+    "firstList": "Devolver|Gungine",
+    "description": "A pool of oil spawns underneath enemies killed with Gungine."
+  },
+  {
+    "name": "Contrail",
+    "firstList": "Alien Engine",
+    "numberOf": 1,
+    "secondList": "Mutation|Shotgrub",
+    "description": "Alien Engine's sprite changes and the flame turns green, igniting enemies with green fire. Alien Engine also grants flight while held.",
+    "lastColumn": "Contrail.png"
+  },
+  {
+    "name": "Cool Kids Club",
+    "firstList": "Devolver|Strafe Gun",
+    "description": "Continuously moving with Strafe Gun held gives the player a yellow glow, increasing movement speed. The glow disappears if the player stops moving."
+  },
+  {
+    "name": "Cormorant",
+    "firstList": "Gunknight Helmet|Gunknight Armor|Gunknight Gauntlet|Gunknight Greaves",
+    "description": "Transforms the player into [[Cormorant]]. Removes reload times from all guns entirely. Increases [[curse]] by 3.",
+    "lastColumn": "Cormorant.png|60px"
+  },
+  {
+    "name": "Cosmic Horror",
+    "firstList": "Abyssal Tentacle|Black Hole Gun",
+    "description": "Black holes fire three tentacles while active."
+  },
+  {
+    "name": "Crave the Glaive",
+    "firstList": "Kruller Glaive|Boomerang",
+    "description": "Kruller Glaive will try to hit every enemy in the room before returning, similar to the Boomerang."
+  },
+  {
+    "name": "Crestfallen Soul",
+    "firstList": "Crestfaller|Gun Soul",
+    "description": "Increases dodge roll speed by 20%. Crestfaller deals 50% more damage if the player dies and has not yet retrieved their soul."
+  },
+  {
+    "name": "Criticaliber",
+    "firstList": "Vorpal Gun|Bullet Idol",
+    "description": "After taking damage with Vorpal Gun held, the next Vorpal Gun shot is guaranteed to be a critical shot."
+  },
+  {
+    "name": "Cryptic Cryptids",
+    "firstList": "Phoenix|Fossilized Gun",
+    "description": "Phoenix shoots out rows of fire on the ground. Both guns pierce enemies and deal additional damage. The player is immune to fire while the guns are held. "
+  },
+  {
+    "name": "Crystal Horn",
+    "firstList": "Luxin Cannon|Unicorn Horn",
+    "description": "Luxin Cannon gets three crystal shots at the end of each magazine, and each crystal shot bursts into many more crystals. Additionally, when an enemy is killed with Unicorn Horn, they explode into Luxin Cannon projectiles."
+  },
+  {
+    "name": "Dawn of the Gundead",
+    "firstList": "Zombie Bullets",
+    "numberOf": 1,
+    "secondList": "Gunslinger's Ashes|Shellegun|Fossilized Gun|Skull Spitter|VertebraeK-47",
+    "description": "Doubles the chance for Zombie Bullets to refund missed shots for the guns."
+  },
+  {
+    "name": "Dead Cell",
+    "firstList": "Railgun|Fortune's Favor",
+    "description": "Decreases Railgun's charge time and increases its damage to bosses by 30%."
+  },
+  {
+    "name": "Dead Place",
+    "firstList": "Mine Cutter|Melted Rock",
+    "description": "Increases Mine Cutter's damage by 25%."
+  },
+  {
+    "name": "Dead Prez",
+    "firstList": "Derringer|Dueling Pistol",
+    "description": "Derringer fires bouncing Dueling Pistol shots. Dueling Pistol fires a wide spread of 4 bullets alongside its normal shots."
+  },
+  {
+    "name": "Deadly Distraction",
+    "firstList": "Decoy|Monster Blood",
+    "description": "Decoy creates a large poison pool when attacked.",
+    "lastColumn": "Deadly Distraction.png"
+  },
+  {
+    "name": "Deadlier Distraction",
+    "firstList": "Explosive Decoy|Monster Blood",
+    "description": "Decoy explodes and creates a large poison pool when attacked.",
+    "lastColumn": "Deadlier Distraction.png"
+  },
+  {
+    "name": "Death Square",
+    "firstList": "Dueling Pistol|Dueling Laser",
+    "description": "Damaging enemies with Dueling Pistol rapidly recharges Dueling Laser."
+  },
+  {
+    "name": "Decorated",
+    "firstList": "Hegemony Carbine|Galactic Medal of Valor",
+    "description": "Hegemony Carbine fires triple shots."
+  },
+  {
+    "name": "Decoy Octorok",
+    "firstList": "Abyssal Tentacle",
+    "numberOf": 1,
+    "secondList": "Decoy|Explosive Decoy",
+    "description": "The decoy will turn into a charmed enemy."
+  },
+  {
+    "name": "Detective Magnum",
+    "firstList": "38 Special|Magnum",
+    "description": "The guns are dual-wielded."
+  },
+  {
+    "name": "Detective Mode",
+    "firstList": "Badge|38 Special",
+    "description": "Increases 38 Special's maximum ammo to 600, halves reload time, and increases damage by 20%. The police officer will also reveal the contents of nearby chests.",
+    "lastColumn": "Detective Mode.png"
+  },
+  {
+    "name": "Devil's Plaything",
+    "firstList": "Armor of Thorns|Bullet Idol",
+    "description": "Bullet Idol orbits the player, blocking enemy shots."
+  },
+  {
+    "name": "Diamond Weapon",
+    "firstList": "Omega Bullets|Frost Bullets",
+    "description": "The last shot of each magazine is guaranteed to be an ice bullet."
+  },
+  {
+    "name": "Diazepam",
+    "firstList": "Muscle Relaxant",
+    "numberOf": 1,
+    "secondList": "A.W.P.|Bow|Hegemony Rifle|Hexagun|Laser Rifle|M1|Sniper Rifle|Winchester Rifle",
+    "description": "Increases the damage of the guns by 50%."
+  },
+  {
+    "name": "Don't Hoot the Messenger",
+    "firstList": "Dungeon Eagle|Owl",
+    "description": "Dungeon Eagle's charged shots gain significant knockback.",
+    "lastColumn": "Don t Hoot the Messenger.png"
+  },
+  {
+    "name": "Don't Worry About The Vase",
+    "firstList": "The Kiln",
+    "numberOf": 1,
+    "secondList": "Chaos Ammolet|Copper Ammolet|Frost Ammolet|Gold Ammolet|Lodestone Ammolet|Uranium Ammolet",
+    "description": "Destroying small breakable objects (vases, barrels, etc.) has a small chance to activate a blank effect."
+  },
+  {
+    "name": "Double Down",
+    "firstList": "Gunboots|Springheel Boots",
+    "description": "Removes the cooldown from Gunboots; every roll will fire bullets."
+  },
+  {
+    "name": "Double Double Helix",
+    "firstList": "Helix|Helix Bullets",
+    "description": "Helix Gun Fires 4 projectiles per shot instead of 2, damage is increased by 25%, and shot speed is increased by 50%.",
+    "lastColumn": "Double Double Helix.png"
+  },
+  {
+    "name": "Double Rainbow",
+    "firstList": "Unicorn Horn|Stuffed Star",
+    "description": "While Stuffed Star is active, five Unicorn Horn beams are fired from the player in all directions."
+  },
+  {
+    "name": "Dr Worm",
+    "firstList": "Heck Blaster|Drum Clip",
+    "description": "Heck Blaster ammo replenishes slowly."
+  },
+  {
+    "name": "Dragunice",
+    "firstList": "Dragunfire|Heart of Ice",
+    "description": "Dragunfire shoots a blue fireball that has a chance to burn and/or freeze enemies."
+  },
+  {
+    "name": "Dualing Pistol",
+    "firstList": "Dueling Pistol|Helix Bullets",
+    "description": "Dueling Pistol changes appearance and its shots seek enemies.",
+    "lastColumn": "Dualing Pistol.png"
+  },
+  {
+    "name": "Dumb Smart Bullets",
+    "firstList": "Scattershot|Homing Bullets",
+    "description": "Bullets unaffected by Homing Bullets become larger and deal 50% more damage."
+  },
+  {
+    "name": "Dwarven Stout",
+    "firstList": "Stout Bullets|Double Vision",
+    "description": "Double Vision triples shots instead of doubling them."
+  },
+  {
+    "name": "The Ecstasy Of Gold",
+    "firstList": "Gilded Bullets",
+    "numberOf": 1,
+    "secondList": "Gilded Hydra|Old Goldie",
+    "description": "Increases the damage of both guns by 25%."
+  },
+  {
+    "name": "EGG MURDERER",
+    "firstList": "Light Gun|The Scrambler",
+    "description": "Light Gun's ducks periodically send out two Scrambler shots perpendicular to itself as it travels."
+  },
+  {
+    "name": "Elder Blank Bullets",
+    "firstList": "Elder Blank|Blank Bullets",
+    "description": "Blank Bullets's blank effect reflects bullets instead of deleting them."
+  },
+  {
+    "name": "Electron Pack",
+    "firstList": "Proton Backpack",
+    "numberOf": 1,
+    "secondList": "Zombie Bullets|Ghost Bullets",
+    "description": "Kills with Proton Backpack spawn allied ghosts that attack enemies.",
+    "lastColumn": "Electron Pack.png"
+  },
+  {
+    "name": "Emerald Weapon",
+    "firstList": "Omega Bullets|Irradiated Lead",
+    "description": "The last shot of each magazine is guaranteed to be a poison bullet."
+  },
+  {
+    "name": "Emergency Help",
+    "firstList": "Flare Gun|Medkit",
+    "description": "Reduces the reload time of Flare Gun by 66% and increases its damage by 50%. While Flare Gun is held, random enemies will periodically have explosions erupt around them, damaging them and hurting other enemies around them."
+  },
+  {
+    "name": "Empty Vessels",
+    "firstList": "Bottle|Holey Grail",
+    "description": "If damage is taken while Bottle is empty, it fills with a purple flame that deals 100 damage to all enemies in the room upon use.",
+    "lastColumn": "Empty Vessels.png"
+  },
+  {
+    "name": "Enter the Fruitgeon",
+    "firstList": "Orange|Orange Guon Stone",
+    "description": "Orange Guon Stone fires oranges at enemies, dealing 7 damage."
+  },
+  {
+    "name": "Extreme Operation",
+    "firstList": "Melted Rock|Ammo Synthesizer",
+    "description": "Using Melted Rock causes corpses to shoot at enemies."
+  },
+  {
+    "name": "Fairy Bow",
+    "firstList": "Bow|Bomb",
+    "description": "Halves the charge time of Bow and adds a chance of firing an extra arrow, similar to the effect of [[Shadow Bullets]]."
+  },
+  {
+    "name": "Finger on the Pulse",
+    "firstList": "Pulse Cannon",
+    "numberOf": 1,
+    "secondList": "Heart Lunchbox|Heart Holster|Heart Bottle|Heart Purse|Heart Locket",
+    "description": "Upon taking damage, spawns 3 Pulse Cannons that attack enemies."
+  },
+  {
+    "name": "Fear the Old Blood",
+    "firstList": "Trick Gun",
+    "numberOf": 1,
+    "secondList": "Blood Brooch|Bloody Eye|Rolling Eye",
+    "description": "Decreases the reload time of Trick Gun by 33% and increases fire rate by 20%."
+  },
+  {
+    "name": "Fightknives",
+    "firstList": "Fightsabre|Knife Shield",
+    "description": "Activating Knife Shield while holding Fightsabre makes the spawned knives reflect bullets before getting destroyed. Knives spawned this way are tinted green.",
+    "lastColumn": "Fightknives.png"
+  },
+  {
+    "name": "Fightsabre Training",
+    "firstList": "Fightsabre|Blast Helmet",
+    "description": "While Fightsabre is held, an orbital appears that blocks enemy shots.",
+    "lastColumn": "Fightsabre_Training.png"
+  },
+  {
+    "name": "Firing With Flair",
+    "firstList": "Flare Gun",
+    "numberOf": 1,
+    "secondList": "Copper Ammolet|Amulet of the Pit Lord|Master of Unlocking|Springheel Boots",
+    "description": "Flare Gun sets green fire, which leaves enemies permanently burning.",
+    "lastColumn": "Firing With Flair.png"
+  },
+  {
+    "name": "Five O'Clock Somewhere",
+    "firstList": "Crestfaller",
+    "numberOf": 1,
+    "secondList": "Old Knight's Flask|Shotga Cola|Double Vision|Potion of Gun Friendship|Shotgun Coffee|Potion of Lead Skin",
+    "description": "Reloading will fire a glass bottle that will stun enemies it hits. Reloading while standing on a liquid replenishes the ammo missing in the current magazine, similar to [[Gungine]].",
+    "lastColumn": "Five_O'Clock_Somewhere.png"
+  },
+  {
+    "name": "Flat Stanley",
+    "firstList": "Mailbox|Box",
+    "description": "Reduces the magazine size of Mailbox by 50% and reduces its reload time by 33%."
+  },
+  {
+    "name": "Friend to Gun and Bullet",
+    "firstList": "+1 Bullets|Potion of Gun Friendship",
+    "description": "While Potion of Gun Friendship is active, a copy of the player's current gun appears and automatically fires at nearby enemies."
+  },
+  {
+    "name": "Frosty Distraction",
+    "firstList": "Decoy|Heart of Ice",
+    "description": "Decoy freezes enemies that attack it.",
+    "lastColumn": "Frosty Distraction.png"
+  },
+  {
+    "name": "Frostier Distraction",
+    "firstList": "Explosive Decoy|Heart of Ice",
+    "description": "Decoy freezes enemies that attack it and explodes after a short period.",
+    "lastColumn": "Frostier Distraction.png"
+  },
+  {
+    "name": "Frosty the Bullet Tyrant",
+    "firstList": "Snowballer|Frost Bullets",
+    "description": "Snowballer shots increase in size and damage the further they travel."
+  },
+  {
+    "name": "Full Circle",
+    "firstList": "Tangler|Rolling Eye",
+    "description": "Tangler becomes round, turns enemies round instead of rectangular, and gains increased damage and reload time."
+  },
+  {
+    "name": "Future Gangster",
+    "firstList": "Bionic Leg|Laser Sight|Shock Rounds|Nanomachines",
+    "numberOf": 1,
+    "description": "Thompson Sub-Machinegun fires lasers. Each laser does 6.5 damage instead of the normal 5 damage. ",
+    "lastColumn": "Future Gangster.png"
+  },
+  {
+    "name": "Garbage Collecting",
+    "firstList": "Trashcannon|Unity",
+    "description": "Hitting an enemy with Trashcannon causes it and its bullets to briefly freeze."
+  },
+  {
+    "name": "Get Equipped With -A-",
+    "firstList": "Megahand|Balloon Gun",
+    "description": "Enables Air Shooter mode which fires Balloon Gun tornadoes when uncharged. Modes can be switched by reloading Megahand with a full magazine. ",
+    "lastColumn": "Air Shooter.png"
+  },
+  {
+    "name": "Get Equipped With -B-",
+    "firstList": "Megahand",
+    "numberOf": 1,
+    "secondList": "Mega Douser|Bubble Blaster",
+    "description": "Enables Bubble Lead mode which fires Bubble Blaster bubbles when uncharged. Modes can be switched by reloading Megahand with a full magazine. ",
+    "lastColumn": "Bubble Lead.png"
+  },
+  {
+    "name": "Get Equipped With -C-",
+    "firstList": "Megahand|Bullet Bore",
+    "description": "Enables Crash Bomber mode, which fires a Bullet Bore bullet at full charge. Modes can be switched by reloading Megahand with a full magazine.",
+    "lastColumn": "Crash Bomber.png"
+  },
+  {
+    "name": "Get Equipped with -F-",
+    "firstList": "Megahand",
+    "numberOf": 1,
+    "secondList": "Camera|Aged Bell",
+    "description": "Enables Time Stopper mode, which fires a flash that stops time for a second and deals damage to all enemies on screen when fully charged. Modes can be switched by reloading Megahand with a full magazine. ",
+    "lastColumn": "Flash_Stopper.png"
+  },
+  {
+    "name": "Get Equipped With -H-",
+    "firstList": "Megahand|Hot Lead",
+    "description": "Enables Atomic Fire mode which fires piercing fireballs when uncharged that set everything in their path on fire. Modes can be switched by reloading Megahand with a full magazine. ",
+    "lastColumn": "Atomic_Fire.png"
+  },
+  {
+    "name": "Get Equipped With -M-",
+    "firstList": "Megahand|Buzzkill",
+    "description": "Enables Metal Blade mode which fires Buzzkill shots when uncharged. Modes can be switched by reloading Megahand with a full magazine. ",
+    "lastColumn": "Metal Blade.png"
+  },
+  {
+    "name": "Get Equipped With -Q-",
+    "firstList": "Megahand|Boomerang",
+    "description": "Enables Quick Boomerang mode which fires small boomerang shots that stun enemies when uncharged. Modes can be switched by reloading Megahand with a full magazine. ",
+    "lastColumn": "Quick Boomerang.png"
+  },
+  {
+    "name": "Get Equipped With -W-",
+    "firstList": "Megahand|Mahoguny",
+    "description": "Enables Leaf Shield mode, where uncharged shots fire leaves while charged shots fire regular charged Megahand shots. Killing enemies in this mode spawns leaves that orbit the player, blocking enemy shots. Modes can be switched by reloading Megahand with a full magazine. ",
+    "lastColumn": "Leaf Shield.png"
+  },
+  {
+    "name": "Ghost With The Most",
+    "firstList": "Gunslinger's Ashes",
+    "numberOf": 1,
+    "secondList": "Ring of Ethereal Form|Ghost Bullets",
+    "description": "Ghosts from Gunslinger's Ashes are larger and can freeze enemies. Reload time decreased by 20%."
+  },
+  {
+    "name": "Gilded Tables",
+    "firstList": "Gilded Bullets|Table Tech Money",
+    "description": "Tables have a 15% chance to be golden. Flipping a golden table will cause all normal enemies in the room to drop 2 to 6 extra coins upon death. Golden tables will not automatically flip due to Table Tech Money."
+  },
+  {
+    "name": "Great Queen Ant",
+    "firstList": "Gungeon Ant",
+    "numberOf": 1,
+    "secondList": "Gilded Bullets|Coin Crown|Heck Blaster|Crown of Guns|Ring of Fire Resistance",
+    "description": "Gungeon Ant becomes an ant queen and shoots rocket ants.",
+    "lastColumn": "Great Queen Ant.png"
+  },
+  {
+    "name": "Green Thumb",
+    "firstList": "Knight's Gun|Pea Shooter"
+  },
+  {
+    "name": "Greener Guon Stone",
+    "firstList": "Green Guon Stone",
+    "numberOf": 1,
+    "secondList": "+1 Bullets|Pea Shooter|Amulet of the Pit Lord",
+    "description": "20 coins appears whenever Green Guon Stone heals the player."
+  },
+  {
+    "name": "Grouch",
+    "firstList": "Trashcannon|Junk",
+    "description": "Increases Trashcannon damage by 25%."
+  },
+  {
+    "name": "Gruber's Bane",
+    "firstList": "Backup Gun|Shadow Bullets",
+    "description": "Backup Gun has a 100% chance of firing shadow bullets."
+  },
+  {
+    "name": "Gunderlord",
+    "firstList": "Ice Breaker|Patriot",
+    "description": "Patriot shots are connected with electricity. Ice Breaker fires single high-velocity shots instead of shotgun spreads, and Ice Breaker ammo slowly regenerates over time.",
+    "lastColumn": "Gunderlord.png"
+  },
+  {
+    "name": "Gungeonite",
+    "firstList": "Gamma Ray|Clear Guon Stone",
+    "description": "Gamma Ray leaves poison on the ground."
+  },
+  {
+    "name": "Gunnerang",
+    "firstList": "Boomerang|Utility Belt",
+    "description": "Increases the damage of thrown guns by 50%."
+  },
+  {
+    "name": "Guns and Deviltry",
+    "firstList": "Grey Mauser|Winchester Rifle",
+    "description": "Increases the guns' damage by 25%, and they fire a knife whenever reloading."
+  },
+  {
+    "name": "Hacker",
+    "firstList": "Lower Case r|Bracket Key",
+    "description": "Increases the damage of Lower Case r by 25%."
+  },
+  {
+    "name": "Hail, Satan!",
+    "firstList": "Demon Head|Pitchfork",
+    "description": "Demon Head gains piercing."
+  },
+  {
+    "name": "Hail To The King",
+    "firstList": "Yari Launcher|Oiled Cylinder",
+    "description": "Increases Yari Launcher's magazine size by 50% and damage by 20%."
+  },
+  {
+    "name": "Hammer and Anvil",
+    "firstList": "Cobalt Hammer|Anvillain",
+    "description": "Firing Cobalt Hammer's charge attack also sends out anvils in all directions."
+  },
+  {
+    "name": "Hammer and Nail",
+    "firstList": "Nail Gun|H4mmer",
+    "description": "Increases max ammo of both guns by 50%. Nail Gun deals triple damage. H4mmer gets 5 hammer shots at the end of every magazine.",
+    "lastColumn": "Hammer and Nail.png"
+  },
+  {
+    "name": "Hard Light",
+    "firstList": "Hyper Light Blaster|Light Gun",
+    "description": "Hyper Light Blaster gains homing and its maximum ammo is increased by 50%. Light Gun has a chance to regenerate ammo when hitting enemies.",
+    "lastColumn": "Hard Light.png"
+  },
+  {
+    "name": "Hardwood",
+    "firstList": "Mahoguny",
+    "numberOf": 1,
+    "secondList": "Decoy|Explosive Decoy|Heavy Boots|Broccoli",
+    "description": "Mahoguny fires four explosive shots at a time."
+  },
+  {
+    "name": "Heads Up",
+    "firstList": "GuNNER|Stone Dome",
+    "description": "Stone Dome fires homing skulls."
+  },
+  {
+    "name": "Heart-Shaped Box",
+    "firstList": "Lament Configurum|Heart Lunchbox",
+    "description": "Lament Configurum heals the player instead of dealing damage."
+  },
+  {
+    "name": "Heavy Artillery",
+    "firstList": "Com4nd0|Vulcan Cannon",
+    "description": "The guns are dual-wielded."
+  },
+  {
+    "name": "Heavy Jolt",
+    "firstList": "Jolter|Heavy Bullets",
+    "description": "Jolter changes appearance, gains increased knockback and increased accuracy.",
+    "lastColumn": "Heavy Jolt.png"
+  },
+  {
+    "name": "Heavy Metal",
+    "firstList": "Anvillain",
+    "numberOf": 1,
+    "secondList": "Heavy Boots|Heavy Bullets",
+    "description": "Decreases Anvillain's shot speed by 25% and increases damage by 20%."
+  },
+  {
+    "name": "Hegemony Special Forces",
+    "firstList": "Hegemony Rifle",
+    "numberOf": 1,
+    "secondList": "Galactic Medal of Valor|Drum Clip|Ammo Belt",
+    "description": "Hegemony Rifle bullets are replaced by piercing lasers.",
+    "lastColumn": "Hegemony Special Forces.png"
+  },
+  {
+    "name": "Hellhole",
+    "firstList": "Singularity",
+    "numberOf": 1,
+    "secondList": "Sixth Chamber|Yellow Chamber|Holey Grail",
+    "description": "Singularity spawns a hell portal that sucks enemies in and deals high damage."
+  },
+  {
+    "name": "Hell Singing",
+    "firstList": "Silver Bullets",
+    "numberOf": 1,
+    "secondList": "Blunderbuss|Dueling Pistol|Trick Gun",
+    "description": "Increases the damage of the guns against [[Curse|jammed]] enemies by 50%.<br>This bonus stacks with the damage from Silver Bullets, for a total of 487.5% damage to jammed enemies."
+  },
+  {
+    "name": "Hidden Tech Bees",
+    "firstList": "Table Tech Blanks",
+    "numberOf": 1,
+    "secondList": "Bumbullets|Jar of Bees|Bee Hive",
+    "description": "A swarm of bees replaces enemy bullets when a table is flipped."
+  },
+  {
+    "name": "Hidden Tech Big Shotgun",
+    "firstList": "Table Tech Shotgun|Big Shotgun",
+    "description": "Table Tech Shotgun shoots Big Shotgun rounds when Big Shotgun is held."
+  },
+  {
+    "name": "Hidden Tech Flare",
+    "firstList": "Table Tech Heat|Hot Lead",
+    "description": "Flipping tables ignite enemies in higher damage green fire. Range is also greatly increased"
+  },
+  {
+    "name": "Hidden Tech Time",
+    "firstList": "Table Tech Sight",
+    "numberOf": 1,
+    "secondList": "Liquid Valkyrie|Bloody Eye",
+    "description": "Flipping a table briefly stops time."
+  },
+  {
+    "name": "Holy Bell",
+    "firstList": "Trident|Aged Bell",
+    "description": "Killing an enemy with Trident creates a large circular area that slows time."
+  },
+  {
+    "name": "Hornucopia",
+    "firstList": "Banana|Charm Horn",
+    "description": "Banana splits into 5 new bananas instead of 3 upon impact, one of which will explode into 4 more bananas. Using Charm Horn fires a banana at each enemy it charms."
+  },
+  {
+    "name": "Hot Head",
+    "firstList": "Stone Dome|The Kiln",
+    "description": "Stone Dome shots burn enemies."
+  },
+  {
+    "name": "Hot Ones",
+    "firstList": "Copper Ammolet|Hot Lead",
+    "description": "Significantly increases the chance of firing fire bullets."
+  },
+  {
+    "name": "Hot Rolls",
+    "firstList": "Ring of Fire Resistance|Cloranthy Ring",
+    "description": "Rolling creates a trail of fire."
+  },
+  {
+    "name": "Hotter Than Heck",
+    "firstList": "Pitchfork|Flame Hand",
+    "description": "Increases the size and damage of the guns by 25% and grants immunity to fire."
+  },
+  {
+    "name": "http://merch.devolverdigital.com",
+    "firstList": "Microtransaction Gun|Mustache",
+    "description": "Doubles Microtransaction Gun's damage."
+  },
+  {
+    "name": "Human Shield",
+    "firstList": "Crisis Stone|Melted Rock",
+    "description": "Upon use, Melted Rock spawns a [[Betrayer's Shield]] shield on every corpse."
+  },
+  {
+    "name": "Hunter-Seeker Tables",
+    "firstList": "Com4nd0|Table Tech Rocket",
+    "description": "Table rockets home in on enemies while Com4nd0 is held."
+  },
+  {
+    "name": "Hydro Pump",
+    "firstList": "Mega Douser|Escape Rope",
+    "description": "Increases the size, knockback, speed, and damage of Mega Douser's stream."
+  },
+  {
+    "name": "Hyper Beam",
+    "firstList": "Heroine|Pig",
+    "description": "When Pig dies, Heroine's ammo is fully refilled and it temporarily switches to Hyper Beam mode, where uncharged shots deal 80 damage and charged shots deal 160 damage. Heroine will automatically revert to its original form after 30 seconds. ",
+    "lastColumn": "Hyper Beam.png"
+  },
+  {
+    "name": "I need scissors! 61!",
+    "firstList": "Trank Gun",
+    "numberOf": 1,
+    "secondList": "Cigarettes|Box|Ration|Wolf|Ancient Hero's Bandana",
+    "description": "Trank Gun's fire rate is decreased, damage and reload time are increased, and its bullets will inflict slow and stun.",
+    "lastColumn": "I need scissors! 61!.png|80px"
+  },
+  {
+    "name": "I Studied The Blade",
+    "firstList": "Super Meat Gun|Buzzkill",
+    "description": "The guns are dual-wielded."
+  },
+  {
+    "name": "Ice Accumulation",
+    "firstList": "Snowballets",
+    "numberOf": 1,
+    "secondList": "Cold 45|Ice Breaker",
+    "description": "Significantly increases the size of the gun's shots, and increases the amount of damage they gain from Snowballets."
+  },
+  {
+    "name": "Ice Beam",
+    "firstList": "Heroine|Frost Bullets",
+    "description": "Enables Ice Beam mode, which fires a projectile that instantly freezes an enemy when fully charged. Modes can be switched by reloading Heroine with a full magazine. ",
+    "lastColumn": "Ice Beam.png"
+  },
+  {
+    "name": "Ice Cap",
+    "firstList": "Freeze Ray",
+    "numberOf": 1,
+    "secondList": "Camera|Flash Ray",
+    "description": "Freeze Ray freezes enemies much quicker.",
+    "lastColumn": "Ice Cap.png"
+  },
+  {
+    "name": "Ice To Meet You",
+    "firstList": "Heart of Ice",
+    "numberOf": 1,
+    "secondList": "Ice Cube|Frost Bullets",
+    "description": "Firing with any gun will periodically fire a Heart of Ice projectile that splits and bounces."
+  },
+  {
+    "name": "Ice Water",
+    "firstList": "Mega Douser|Snowballer",
+    "description": "Mega Douser freezes enemies and leaves a trail of ice. The stream becomes larger and deals 30% more damage."
+  },
+  {
+    "name": "In The Mood!",
+    "numberOf": 2,
+    "firstList": "BSG|Thunderclap|Strafe Gun",
+    "description": "Slightly increases movement speed and increases the shot speed of the guns by 25%."
+  },
+  {
+    "name": "Inconsistent Scale",
+    "firstList": "Bee Hive|Gungeon Ant",
+    "description": "While Gungeon Ant is held, creates a beehive orbital that spawns bees. "
+  },
+  {
+    "name": "Insight",
+    "firstList": "Huntsman|Trick Gun",
+    "description": "A creature appears at entrances to secret rooms, revealing their location.",
+    "lastColumn": "Insight.png"
+  },
+  {
+    "name": "Iron Slug",
+    "firstList": "Big Iron",
+    "numberOf": 1,
+    "secondList": "Scope|Heavy Boots|Heavy Bullets|Fat Bullets|Stout Bullets",
+    "description": "Big Iron fires a single high-damage slug.",
+    "lastColumn": "Iron Slug.png"
+  },
+  {
+    "name": "Iron Stance",
+    "firstList": "Heavy Boots",
+    "numberOf": 1,
+    "secondList": "Blooper|Blunderbuss|Elephant Gun|Huntsman|Old Goldie|Pulse Cannon|Regular Shotgun|Siren|Tangler|Void Shotgun|Zilla Shotgun",
+    "description": "Increases damage and knockback by 20%, increases shot speed by 50%, and decreases reload time by 20%."
+  },
+  {
+    "name": "Iroquois",
+    "firstList": "MAC10",
+    "numberOf": 1,
+    "secondList": "Eyepatch|Cigarettes|Rolling Eye",
+    "description": "Decreases the reload time of MAC10 by 33%, increases its magazine size by 50%, and increases its knockback by 50%."
+  },
+  {
+    "name": "It's Your Destiny",
+    "firstList": "The Exotic|Ice Breaker",
+    "description": "Ice Breaker fires single high-velocity shots instead of shotgun spreads, and slowly regenerates ammo over time. The Exotic's rockets split into 14 smaller rockets instead of 7.",
+    "lastColumn": "Gunderlord.png"
+  },
+  {
+    "name": "J am",
+    "firstList": "Alpha Bullet|Omega Bullets",
+    "description": "Reduces reload times by 33%."
+  },
+  {
+    "name": "Jolly Roger",
+    "firstList": "VertebraeK-47|Skull Spitter",
+    "description": "Skull Spitter fires three skulls per shot, and skulls are linked like VertebraeK-47 shots. VertebraeK-47 can freeze enemies."
+  },
+  {
+    "name": "Jotun Time",
+    "firstList": "Frost Giant|Heart of Ice",
+    "description": "Reloading chills and freezes nearby enemies. Thrown guns deal 180% more damage."
+  },
+  {
+    "name": "Jumping... Is Useless",
+    "firstList": "Quad Laser|Moonscraper",
+    "description": "Quad Laser shots fire four continuous lasers in a cross formation as they travel. Doubles Quad Laser's shot speed and triples its reload time."
+  },
+  {
+    "name": "Junk Mail",
+    "firstList": "Mailbox|Magazine Rack",
+    "description": "Mailbox only shoots packages while Magazine Rack is active."
+  },
+  {
+    "name": "Just In Case",
+    "firstList": "Lower Case r|Bomb",
+    "description": "Lower Case r becomes a capital letter R and transforms into a one shot rocket launcher. It fires the word ROCKET with cloud sprites when shot, and creates a cartoony BOOM cloud when it hits something.",
+    "lastColumn": "Case R.png|60px"
+  },
+  {
+    "name": "Just Like The Real Thing",
+    "firstList": "Shotgrub",
+    "numberOf": 1,
+    "secondList": "Sixth Chamber|Yellow Chamber|Holey Grail|Bullet Idol",
+    "description": "Shotgrub fires a wide spread of five bullets, which bounce back and split into waving bullets after hitting a wall, similar to the [[Shotgun Kin#Shotgrub|Shotgrub enemy]]'s attack."
+  },
+  {
+    "name": "Just Shoot Me",
+    "firstList": "Camera|Magazine Rack",
+    "description": "Magazine Rack shoots at nearby enemies while it is active and Camera is held."
+  },
+  {
+    "name": "Kage Bunshin",
+    "firstList": "Shadow Bullets|Decoy",
+    "description": "Using Decoy spawns a shadow clone of the player that mirrors their movements and fires towards the crosshair whenever the player fires."
+  },
+  {
+    "name": "Kaliber k'pow uboom k'bhang",
+    "firstList": "High Kaliber",
+    "numberOf": 1,
+    "secondList": "Holey Grail|Cursed Bullets|Yellow Chamber",
+    "description": "The split soul initially moves towards the player instead of away."
+  },
+  {
+    "name": "Kaliber's Grip",
+    "firstList": "Abyssal Tentacle",
+    "numberOf": 1,
+    "secondList": "Chaos Bullets|Holey Grail|Yellow Chamber",
+    "description": "Abyssal Tentacle grabs two enemies at a time.",
+    "lastColumn": "Kaliber's Grip.png"
+  },
+  {
+    "name": "Kalibreath",
+    "firstList": "Dragunfire",
+    "numberOf": 1,
+    "secondList": "Yellow Chamber|Holey Grail",
+    "description": "Dragunfire turns grey and has an increased rate of fire.",
+    "lastColumn": "Kalibreath.png"
+  },
+  {
+    "name": "Keep The Change",
+    "firstList": "M16|Blank Companion's Ring",
+    "description": "Blank Companion's Ring will sometimes activate when M16 empties its magazine."
+  },
+  {
+    "name": "Keeping The Beat",
+    "firstList": "Metronome|Drum Clip",
+    "description": "Metronome grants +4% damage per kill instead of +2%, and maxes out at +250% damage instead of +150%. Metronome's icon color goes from red to purple to grey instead of ending at red."
+  },
+  {
+    "name": "Key Witness",
+    "firstList": "Master of Unlocking|Shelleton Key",
+    "description": "Occasionally fires an [[AKEY-47]] shot whenever the player fires a gun."
+  },
+  {
+    "name": "The Killing Joke",
+    "firstList": "AK-47|JK-47",
+    "description": "The guns are dual-wielded."
+  },
+  {
+    "name": "King Bomber",
+    "firstList": "Lil' Bomber",
+    "numberOf": 1,
+    "secondList": "Gilded Bullets|Coin Crown|Crown of Guns",
+    "description": "Lil' Bomber's bombs become gold and spawn coins every time they hit an enemy.",
+    "lastColumn": "King Bomber.png"
+  },
+  {
+    "name": "Kinjutsu",
+    "firstList": "Decoy|Shadow Clone",
+    "description": "Shadow Clone spawns three clones."
+  },
+  {
+    "name": "Klobbering Time",
+    "firstList": "Klobbe",
+    "numberOf": 1,
+    "secondList": "AU Gun|Moonscraper",
+    "description": "Klobbe is doubled.",
+    "lastColumn": "Klobbering Time.png"
+  },
+  {
+    "name": "Knight Time",
+    "firstList": "Ballistic Boots|Gunknight Greaves",
+    "description": "Taking damage will briefly stop time."
+  },
+  {
+    "name": "Kung Fu Hippie, Rappin' Surfer",
+    "firstList": "Rad Gun|Sunglasses",
+    "description": "Increases Rad Gun's magazine size to 20, and decreases its reload speed, giving more time to hit the mark. Also grants 1.33 [[coolness]], makes the skateboard pink, and turns the hat backwards.",
+    "lastColumn": "Kung Fu Hippie, Rappin' Surfer.png"
+  },
+  {
+    "name": "Land Among The Stars",
+    "firstList": "Moonscraper|Crescent Crossbow",
+    "description": "Killing enemies with Moonscraper has a chance to send out three planets, which damage enemies and start orbiting the player if they fail to hit an enemy."
+  },
+  {
+    "name": "Laser Light Show",
+    "firstList": "Laser Rifle|Scattershot",
+    "description": "Laser Rifle becomes blue and gold, and fires 3 sets of 3 shots in a spread per trigger pull. Each shot bounces once.",
+    "lastColumn": "Laser Light Show.png"
+  },
+  {
+    "name": "Liches Get Stitches",
+    "firstList": "Riddle of Lead|Lichy Trigger Finger",
+    "description": "Grants a large attack speed increase for a short duration after an enemy is killed."
+  },
+  {
+    "name": "Like Shooting Fish",
+    "firstList": "Barrel|Backup Gun",
+    "description": "A fish pops out of the barrel and fires bullets. The last shot of each magazine fires a fish that flops around on the ground and fires at enemies.",
+    "lastColumn": "Like Shooting Fish.png"
+  },
+  {
+    "name": "The Line Of Fire",
+    "firstList": "Composite Gun",
+    "numberOf": 1,
+    "secondList": "Full Metal Jacket|Pig|Sunglasses",
+    "description": "Composite Gun shots leave a trail of fire."
+  },
+  {
+    "name": "Lotus Bloom",
+    "firstList": "Laser Lotus",
+    "numberOf": 1,
+    "secondList": "Rolling Eye|Shock Rounds",
+    "description": "Laser Lotus gains the appearance of a flower. Its magazine size increases to 32, its maximum ammo increases to 250, its fire rate greatly increases, and it deals half damage.",
+    "lastColumn": "Lotus Bloom.png"
+  },
+  {
+    "name": "Love/Hate",
+    "firstList": "Shotgun Full of Hate|Shotgun Full of Love",
+    "description": "The guns are dual-wielded."
+  },
+  {
+    "name": "Lumberjacked",
+    "firstList": "Huntsman|Mahoguny",
+    "description": "Increases the damage of the guns by 25%."
+  },
+  {
+    "name": "M1 Multi-Tool",
+    "firstList": "M1",
+    "numberOf": 1,
+    "secondList": "Drum Clip|Scope|Ammo Belt|Backpack|Utility Belt",
+    "description": "Decreases M1's reload time by 20% and increases its magazine size, and maximum ammo. Increases movement speed. Changes appearance to resemble an M14.",
+    "lastColumn": "M1 Multi-Tool.png"
+  },
+  {
+    "name": "Mad Cats",
+    "firstList": "3rd Party Controller|Cat Bullet King Throne",
+    "description": "The bullets shot from Cat Bullet King Throne home in on enemies."
+  },
+  {
+    "name": "Magazine Clips",
+    "firstList": "Drum Clip|Magazine Rack",
+    "description": "Magazine Rack's radius doubles."
+  },
+  {
+    "name": "Mak Pak",
+    "firstList": "Makarov",
+    "numberOf": 1,
+    "secondList": "Bottle|Backpack",
+    "description": "Increases Makarov's maximum ammo by 30%. While holding Marakov, it occasionally fires a homing bullet at an enemy for free."
+  },
+  {
+    "name": "Mass Cutter",
+    "firstList": "Mass Shotgun|Mine Cutter",
+    "description": "Whenever a Mass Shotgun shot splits, a cone of Mine Cutter lasers is fired."
+  },
+  {
+    "name": "Massive Effect",
+    "firstList": "Mass Shotgun",
+    "numberOf": 1,
+    "secondList": "Stout Bullets|Fat Bullets|Heavy Bullets",
+    "description": "Significantly increases the size of Mass Shotgun's shots."
+  },
+  {
+    "name": "Master's Chambers",
+    "firstList": "Chamber Gun",
+    "numberOf": 1,
+    "secondList": "Master Round I|Master Round II|Master Round III|Master Round IV|Master Round V",
+    "description": "Each Master Round the player carries permanently unlocks the mode of its respective floor for Chamber Gun. Reloading the gun with a full magazine cycles through the unlocked modes."
+  },
+  {
+    "name": "Maximize Spell",
+    "firstList": "Flame Hand",
+    "numberOf": 1,
+    "secondList": "Chance Bullets|Gungeon Pepper",
+    "description": "Flame Hand becomes green and creates pools of green fire. Green fire does not damage the player, and enemies that touch green fire are permanently aflame.",
+    "lastColumn": "Maximize Spell.png"
+  },
+  {
+    "name": "Max Pane",
+    "firstList": "Glass Cannon|Glass Guon Stone",
+    "description": "If hit, Glass Guon Stone breaks, but Glass Cannon retains its ammo."
+  },
+  {
+    "name": "Mine Craft",
+    "firstList": "Mine Cutter|Cluster Mine",
+    "description": "Mines created by Cluster Mine home in on enemies."
+  },
+  {
+    "name": "Mirror Shield",
+    "firstList": "Shield of the Maiden|Rolling Eye",
+    "description": "Shield of the Maiden reflects enemy bullets while active.",
+    "lastColumn": "Mirror Shield.png"
+  },
+  {
+    "name": "MM6 Mini Rocket",
+    "firstList": "Jetpack|Backpack",
+    "description": "Activating Jetpack fires a rocket in the direction of the crosshair. This has an approximate 5 second cooldown."
+  },
+  {
+    "name": "Mmmmmmmmm MMMMmm!",
+    "firstList": "M1|M16|M1911",
+    "description": "Increases the damage, maximum ammo, and rate of fire of the guns by 25%."
+  },
+  {
+    "name": "Monsters and Monocles",
+    "firstList": "Teapot|Mustache",
+    "description": "Increases the ignition range of Teapot's reload effect."
+  },
+  {
+    "name": "Moonplanet",
+    "firstList": "Mr. Accretion Jr.|Moonscraper",
+    "description": "A moon orbits the player that blocks enemy shots.",
+    "lastColumn": "Moonplanet.png"
+  },
+  {
+    "name": "Mr. Shadow",
+    "firstList": "Zorgun|Shadow Bullets",
+    "description": "Zorgun Shadow Bullets become the random explosives Zorgun fires as its last shot."
+  },
+  {
+    "name": "Monster Grub",
+    "firstList": "Shotgrub|Monster Blood",
+    "description": "Shotgrub reloads faster and its bullets gain homing."
+  },
+  {
+    "name": "Nailed It!",
+    "firstList": "Nail Gun",
+    "numberOf": 1,
+    "secondList": "Heavy Bullets|+1 Bullets|Sunglasses|Blast Helmet|H4mmer|Cobalt Hammer",
+    "description": "Nails deal triple damage.",
+    "lastColumn": "Nailed It!.png"
+  },
+  {
+    "name": "Napalm B",
+    "firstList": "Mega Douser|Napalm Strike",
+    "description": "Mega Douser's water spreads fire instead of extinguishing it."
+  },
+  {
+    "name": "Natural Selection",
+    "firstList": "Evolver",
+    "numberOf": 1,
+    "secondList": "Big Boy|Irradiated Lead|Monster Blood",
+    "description": "Evolver evolves after every 3 unique enemy types killed instead of 5."
+  },
+  {
+    "name": "Needless Acrimony",
+    "firstList": "Shotgun Full of Hate",
+    "numberOf": 1,
+    "secondList": "Angry Bullets|Table Tech Rage",
+    "description": "Rage duration is greatly increased if a table is flipped while Shotgun Full of Hate is held."
+  },
+  {
+    "name": "Neo Tech, Yo",
+    "firstList": "Mutation",
+    "numberOf": 1,
+    "secondList": "Bionic Leg|Shock Rounds",
+    "description": "Mutation's beam turns blue and creates electrified water. The player is immune to electricity while Mutation is held.",
+    "lastColumn": "Neo Tech, Yo.png"
+  },
+  {
+    "name": "No Odd Job",
+    "firstList": "Makarov|Klobbe",
+    "description": "The guns are dual-wielded. Increases damage by 20% and spread by 60%, decreasing accuracy."
+  },
+  {
+    "name": "Not Quite As Mini",
+    "firstList": "Vulcan Cannon",
+    "numberOf": 1,
+    "secondList": "Ammo Belt|Drum Clip|Oiled Cylinder",
+    "description": "Increases Vulcan Cannon's maximum ammo by 25% and significantly increases fire rate.",
+    "lastColumn": "Not Quite As Mini.png"
+  },
+  {
+    "name": "Not So Sawed-Off",
+    "firstList": "Buzzkill",
+    "numberOf": 1,
+    "secondList": "Rattler|Regular Shotgun|Winchester",
+    "description": "Buzzkill's saw blades are linked by lightning.",
+    "lastColumn": "Not So Sawed-Off.png"
+  },
+  {
+    "name": "Noxin Cannon",
+    "firstList": "Luxin Cannon",
+    "numberOf": 1,
+    "secondList": "Shadow Bullets|Cursed Bullets",
+    "description": "Luxin Cannon and its shots turn grey, and the lasers deal 25% more damage.",
+    "lastColumn": "Noxin Cannon.png"
+  },
+  {
+    "name": "One Fish Two Fish",
+    "firstList": "Barrel|Helix Bullets",
+    "description": "With each shot, Barrel fires a normal blue fish and a red fish that sets enemies on fire."
+  },
+  {
+    "name": "Oranger Guon Stone",
+    "firstList": "Orange Guon Stone",
+    "numberOf": 1,
+    "secondList": "+1 Bullets|Orange|Amulet of the Pit Lord",
+    "description": "Orange Guon Stone grows in size, fires more frequently, and deals more damage."
+  },
+  {
+    "name": "Orrery",
+    "firstList": "Mr. Accretion Jr.|Orbital Bullets",
+    "description": "Planets fired by Mr. Accretion Jr. have smaller bullets orbiting them like moons; these bullets persist when the missed shots start orbiting the player. "
+  },
+  {
+    "name": "Outer Limits",
+    "firstList": "Mr. Accretion Jr.|Singularity",
+    "description": "Firing three planets into Singularity's black hole causes it to explode and deal 100 damage to all enemies in the room."
+  },
+  {
+    "name": "Over Dose",
+    "firstList": "Heavy Bullets|Devolver",
+    "description": "Heavy Bullets no longer decreases shot speed."
+  },
+  {
+    "name": "Paperwork",
+    "firstList": "Origuni",
+    "numberOf": 1,
+    "secondList": "Ballot|Table Tech Blanks|Table Tech Heat|Table Tech Money|Table Tech Rocket|Table Tech Rage|Table Tech Rocket|Table Tech Shotgun|Table Tech Sight|Table Tech Stun",
+    "description": "The first shot after reloading Origuni fires three planes."
+  },
+  {
+    "name": "Paper Lanterns",
+    "firstList": "Balloon Gun|Origuni",
+    "description": "While holding either gun in a room with enemies, paper lanterns periodically spawn, which drift towards enemies and deal damage."
+  },
+  {
+    "name": "Pandemic Pistol",
+    "firstList": "Plague Pistol",
+    "numberOf": 1,
+    "secondList": "Monster Blood|Gundromeda Strain|Irradiated Lead",
+    "description": "Plague Pistol bullets bounce and are connected with electricity.",
+    "lastColumn": "Pandemic Pistol.png"
+  },
+  {
+    "name": "Parchmental",
+    "firstList": "Origuni|Map",
+    "description": "Each Origuni shot fires two maps.",
+    "lastColumn": "Parchmental.png"
+  },
+  {
+    "name": "Particle Accelerator",
+    "firstList": "Particulator|Laser Sight",
+    "description": "Whenever a smaller bullet hits an enemy, a laser is automatically fired in its direction."
+  },
+  {
+    "name": "Particle Flow",
+    "firstList": "Laser Sight",
+    "numberOf": 1,
+    "secondList": "RPG|Stinger|Zorgun|Laser Lotus",
+    "description": "The guns home in on enemies."
+  },
+  {
+    "name": "Pea Cannon",
+    "firstList": "Pea Shooter",
+    "numberOf": 1,
+    "secondList": "Old Knight's Helm|Old Knight's Shield|Mahoguny|Starpew|Crutch|Broccoli|Cactus|Wood Beam",
+    "description": "Pea Shooter shots become larger, deal more damage, and explode.",
+    "lastColumn": "Pea Cannon.png"
+  },
+  {
+    "name": "Peripheral Vision",
+    "firstList": "Light Gun",
+    "numberOf": 1,
+    "secondList": "Wax Wings|Laser Sight",
+    "description": "Upon hitting an enemy 3 times with Light Gun, a dog appears and attacks that enemy.",
+    "lastColumn": "Peripheral Vision.png"
+  },
+  {
+    "name": "Phoenix Up",
+    "firstList": "Phoenix",
+    "numberOf": 1,
+    "secondList": "Unfinished Gun|The Scrambler|Hot Lead|Copper Ammolet|Flame Hand|Weird Egg|Napalm Strike|Gungeon Pepper",
+    "description": "Changes the look of Phoenix and summons a Phoenix companion that fires at enemies.",
+    "lastColumn": "Phoenix Up.png"
+  },
+  {
+    "name": "Pilot Wingsman",
+    "firstList": "Alien Engine|Wingman",
+    "description": "Wingman fires four rockets at a time.",
+    "lastColumn": "Pilot Wingsman.png"
+  },
+  {
+    "name": "Pinker Guon Stone",
+    "firstList": "Pink Guon Stone",
+    "numberOf": 1,
+    "secondList": "+1 Bullets|Charmed Bow|Amulet of the Pit Lord",
+    "description": "Enemies that damage the player become temporarily [[charm]]ed."
+  },
+  {
+    "name": "Pistol Machine",
+    "firstList": "Machine Pistol",
+    "numberOf": 1,
+    "secondList": "Fortune's Favor|Laser Sight|Nanomachines|Bionic Leg|Shock Rounds|+1 Bullets",
+    "description": "Machine Pistol shots gain the effect of [[Angry Bullets]] and are connected with electricity.",
+    "lastColumn": "Pistol Machine.png"
+  },
+  {
+    "name": "Pitch Perfect",
+    "firstList": "Pitchfork",
+    "numberOf": 1,
+    "secondList": "Sixth Chamber|Yellow Chamber|Holey Grail",
+    "description": "Pitchfork fires green fireballs, setting enemies permanently aflame.",
+    "lastColumn": "Pitch Perfect.png"
+  },
+  {
+    "name": "Plant Power",
+    "firstList": "Triple Gun|Broccoli",
+    "description": "Triple Gun reaches its laser beam phase earlier."
+  },
+  {
+    "name": "Plasma Beam",
+    "firstList": "Heroine|Hot Lead",
+    "description": "Enables Plasma Beam mode, which fires a fire laser when uncharged and a large piercing fire projectile when charged. Modes can be switched by reloading Heroine with a full magazine. ",
+    "lastColumn": "Plasma Beam.png"
+  },
+  {
+    "name": "Porkulent",
+    "firstList": "Pig|Ring of Miserly Protection",
+    "description": "Allows the player to make purchases without losing the  Ring."
+  },
+  {
+    "name": "Poseigun",
+    "firstList": "Trident|Crown of Guns",
+    "description": "Trident fires a spread of three beams per shot, no longer benefits from rolling, has its magazine size increased to 8, and has its fire rate reduced greatly. Crown of Guns randomly fires Trident beams."
+  },
+  {
+    "name": "Powerhouse of the Cell",
+    "firstList": "Evolver|Antibody",
+    "description": "Evolver evolves one stage."
+  },
+  {
+    "name": "Praise the Gun",
+    "firstList": "Gun Soul|Old Knight's Flask",
+    "description": "Dodge roll recovery time is reduced. A bonfire spawns in every [[Shop]] and elevator to the next floor. If the player dies, they will respawn at the last bonfire they activated instead of at the start of the floor."
+  },
+  {
+    "name": "Pretty Good",
+    "firstList": "SAA",
+    "numberOf": 1,
+    "secondList": "Box|Ration|Fortune's Favor|Nanomachines|Hip Holster",
+    "description": "Increases [[coolness]] by 2."
+  },
+  {
+    "name": "Primitive Shapes",
+    "firstList": "Quad Laser|Tangler",
+    "description": "Tangler's shots become much larger and deal 50% more damage, but travel very slowly. Quad Laser's shots become rectangles and travel faster."
+  },
+  {
+    "name": "Production Model",
+    "firstList": "Prototype Railgun",
+    "numberOf": 1,
+    "secondList": "Teleporter Prototype|Nanomachines",
+    "description": "Prototype Railgun shots bounce up to 5 times."
+  },
+  {
+    "name": "Pulp Gungeon",
+    "firstList": "M1911|Orange",
+    "description": "A copy of M1911 orbits the player and fires whenever the player fires."
+  },
+  {
+    "name": "Queen of Hearts",
+    "firstList": "Heart Purse|Coin Crown",
+    "description": "When at full health, picking up hearts will turn them to coins."
+  },
+  {
+    "name": "Quick and the Gundead",
+    "firstList": "Hip Holster|Heart Holster",
+    "description": "Shots fired by Hip Holster home in on enemies."
+  },
+  {
+    "name": "RAIDEN",
+    "firstList": "Raiden Coil|Space Friend",
+    "description": "Increases Raiden Coil's max ammo capacity by 25%. Pairs of bullets are fired alongside the laser. Massively reduces ammo consumption.",
+    "lastColumn": "RAIDEN.png"
+  },
+  {
+    "name": "Raizo's Stuff",
+    "firstList": "Bloodied Scarf|Grappling Hook",
+    "description": "Bullets shot while being pulled with Grappling Hook gain homing."
+  },
+  {
+    "name": "Recycling Bin",
+    "firstList": "Starpew|Trashcannon",
+    "description": "[[Trashcannon]] becomes a recycling bin with higher damage and a larger magazine size, and no longer creates poison projectiles.",
+    "lastColumn": "Recycling Bin.png"
+  },
+  {
+    "name": "The Red Hood",
+    "firstList": "Huntsman|Wolf",
+    "description": "While Huntsman is held, Wolf's attacks will significantly weaken enemies."
+  },
+  {
+    "name": "Redder Guon Stone",
+    "firstList": "Red Guon Stone",
+    "numberOf": 1,
+    "secondList": "+1 Bullets|Ring of Fire Resistance|Amulet of the Pit Lord",
+    "description": "Red Guon Stone's size is increased. Player will gain a yellow glow and stat increase similar to that of Macho Brace for a short time whenever Red Guon Stone blocks a bullet."
+  },
+  {
+    "name": "Regular Old Guns",
+    "firstList": "AK-47|Regular Shotgun",
+    "description": "Quadruples the guns' rate of fire but decreases their damage by 25%."
+  },
+  {
+    "name": "Reload Roll",
+    "firstList": "Easy Reload Bullets",
+    "numberOf": 1,
+    "secondList": "Magnum|M1911|Dungeon Eagle|38 Special|Colt 1851|Makarov|SAA",
+    "description": "Rolling reloads six bullets."
+  },
+  {
+    "name": "Relodestar",
+    "firstList": "Relodestone",
+    "numberOf": 1,
+    "secondList": "Chaos Ammolet|Copper Ammolet|Frost Ammolet|Gold Ammolet|Lodestone Ammolet|Uranium Ammolet",
+    "description": "After Relodestone's effect ends, the bullets that were absorbed are shot out of the player dealing damage to enemies."
+  },
+  {
+    "name": "Resourceful Indeed",
+    "firstList": "Elimentaler|Resourceful Sack|Partially-Eaten Cheese|Rat Boots",
+    "description": "Player becomes the [[Resourceful Rat]]. This prevents items from being stolen when they're left behind in rooms."
+  },
+  {
+    "name": "Revolution",
+    "firstList": "Dueling Pistol|Ballot",
+    "description": "Increases the damage of Dueling Pistol by 25%, and allows its bullets to bounce five times instead of twice."
+  },
+  {
+    "name": "Rubenstein's Monster",
+    "firstList": "RUBE-ADYNE Prototype|RUBE-ADYNE MK.II",
+    "description": "The two guns are combined to form [[Rubenstein's Monster]].",
+    "lastColumn": "Rubenstein%27s Monster.png|110px"
+  },
+  {
+    "name": "Ruby Carbine",
+    "firstList": "Hegemony Carbine",
+    "numberOf": 1,
+    "secondList": "Ruby Bracelet|Cog of Battle|Mimic Tooth Necklace",
+    "description": "Hegemony Carbine shots light enemies on fire and bounce.",
+    "lastColumn": "Ruby Carbine.png"
+  },
+  {
+    "name": "Ruby Weapon",
+    "firstList": "Omega Bullets|Hot Lead",
+    "description": "The last shot of each magazine is guaranteed to be a fire bullet."
+  },
+  {
+    "name": "Running Blades",
+    "firstList": "Deck4rd|Knife Shield",
+    "description": "Killing an enemy with Deck4rd has a high chance to spawn a Knife Shield knife."
+  },
+  {
+    "name": "Rabid",
+    "firstList": "Lower Case r|Angry Bullets",
+    "description": "Lower Case r spells out LOSER, DORK, CHUMP, NOODLE, and TAFFER."
+  },
+  {
+    "name": "Radiant",
+    "firstList": "Lower Case r|Silver Bullets",
+    "description": "Lower Case r spells out SILVER, BLESSED, and WEREWOLF."
+  },
+  {
+    "name": "Ravishing",
+    "firstList": "Lower Case r|Charming Rounds",
+    "description": "Lower Case r spells out HANDSOME, CHARM, and CUTE."
+  },
+  {
+    "name": "Reactive",
+    "firstList": "Lower Case r|Explosive Rounds",
+    "description": "Lower Case r spells ROCKET, BOOM, KABOOM, and POW when fired and rounds explode."
+  },
+  {
+    "name": "Reanimate",
+    "firstList": "Lower Case r|Ghost Bullets",
+    "description": "Lower Case r spells out SPOOKY, GHOST, and BOO."
+  },
+  {
+    "name": "Reinforced",
+    "firstList": "Lower Case r|+1 Bullets",
+    "description": "Lower Case r spells out BULLET+1."
+  },
+  {
+    "name": "Remnant",
+    "firstList": "Lower Case r|Omega Bullets",
+    "description": "When firing Lower Case r, adds an omega letter after each BULLET."
+  },
+  {
+    "name": "Replete",
+    "firstList": "Lower Case r|Finished Gun",
+    "description": "Lower Case r spells out COWABUNGA, BOOYAKASHA, THANK YOU, THANKS, HASTA LA VISTA, TOODLES, GOODBYE, FAREWELL and GAME OVER."
+  },
+  {
+    "name": "Research",
+    "firstList": "Lower Case r|Book of Chest Anatomy",
+    "description": "Lower Case r spells out CHEST and MIMIC. Can be used to open locked chests."
+  },
+  {
+    "name": "Resplendent",
+    "firstList": "Lower Case r|Gilded Bullets",
+    "description": "Lower Case r spells out CASH, COINS, SHELLS, and GOLD."
+  },
+  {
+    "name": "Root",
+    "firstList": "Lower Case r|Alpha Bullet",
+    "description": "When firing Lower Case r, adds an alpha letter before each BULLET."
+  },
+  {
+    "name": "Runic",
+    "firstList": "Lower Case r|Magic Bullets",
+    "description": "Lower Case r spells out ABRA and KADABRA."
+  },
+  {
+    "name": "Sausage and Peppers",
+    "firstList": "Gungeon Pepper|Meatbun",
+    "description": "Significantly increases the radius of Gungeon Pepper's damaging aura, and Meatbun heals five hearts."
+  },
+  {
+    "name": "Saved the Best for Last",
+    "firstList": "Hip Holster|Ruby Bracelet",
+    "description": "Shots fired by Hip Holster explode."
+  },
+  {
+    "name": "Savior of the Universe",
+    "firstList": "Flash Ray|Camera",
+    "description": "Flash Ray's shots gain unlimited piercing, a thicker beam, one bounce, and increased fire rate. When reloaded from an empty clip, Flash Ray produces a flash that hits all enemies in the room, like Camera. Camera fires 2 laser beams when fired.",
+    "lastColumn": "Savior Of The Universe.png"
+  },
+  {
+    "name": "Second Accident",
+    "firstList": "Shotbow",
+    "numberOf": 1,
+    "secondList": "Teleporter Prototype|Chest Teleporter",
+    "description": "Shotbow fires 9 parallel arrows straight forward.",
+    "lastColumn": "Second Accident.png"
+  },
+  {
+    "name": "Secret Twin",
+    "firstList": "Vulcan Cannon|Ticket",
+    "description": "Holding Vulcan Cannon and using Ticket spawns two friendly Gatling Gulls instead of one."
+  },
+  {
+    "name": "Serious Sam Publishing Contract",
+    "firstList": "Devolver|Serious Cannon",
+    "description": "Alongside the standard cannonball, Serious Cannon fires a screaming man who chases enemies and explodes on contact. Serious Cannon also gains a chance to \"Devolve\" enemies."
+  },
+  {
+    "name": "Shadow Warrior",
+    "firstList": "Zilla Shotgun|Yari Launcher",
+    "description": "A [[Demon Head]] orbits the player while they have one of the guns held. When they reload one of them, the orbiting Demon Head fires at nearby enemies. Reduces the guns' spread by 60%, increasing their accuracy."
+  },
+  {
+    "name": "Shell-A-Ton",
+    "firstList": "Baby Good Shelleton|Shelleton Key",
+    "description": "Baby Good Shelleton moves and shoots much faster."
+  },
+  {
+    "name": "Shield Night",
+    "firstList": "Knight's Gun|Shield of the Maiden",
+    "description": "Reloading Knight's Gun places a shield, similar to [[Betrayer's Shield]]."
+  },
+  {
+    "name": "Shot Across The Bow",
+    "firstList": "Gunbow",
+    "numberOf": 1,
+    "secondList": "Rocket-Powered Bullets|Air Strike|iBomb Companion App|Explosive Rounds",
+    "description": "Gunbow fires explosive missiles.",
+    "lastColumn": "Shot Across The Bow.png"
+  },
+  {
+    "name": "Shotgun Affinity",
+    "firstList": "Shotga Cola|Shotgun Coffee",
+    "description": "All shotgun-type weapons gain piercing, increased knockback, and increased shot speed."
+  },
+  {
+    "name": "Shredder",
+    "firstList": "Metronome",
+    "numberOf": 1,
+    "secondList": "Face Melter|Gunzheng",
+    "description": "Doubles the spread of the guns, decreasing their accuracy."
+  },
+  {
+    "name": "Siren Sidearm",
+    "firstList": "Siren|Barrel",
+    "description": "The first shot of every Siren magazine fires two fish. Every Barrel shot fires a Siren water bubble."
+  },
+  {
+    "name": "Slings and Arrows",
+    "firstList": "Bow|Sling",
+    "description": "Bow can be charged longer to fire a special arrow that deals 50 damage."
+  },
+  {
+    "name": "Sleuth Out",
+    "firstList": "38 Special|Scope",
+    "description": "While held, decreases enemy projectile speed by 20%, but decreases 38 Special's rate of fire by 20%."
+  },
+  {
+    "name": "Smart Bombs",
+    "firstList": "Bomb|Ice Bomb",
+    "numberOf": 1,
+    "secondList": "Crutch|Homing Bullets",
+    "description": "Bombs home in on enemies."
+  },
+  {
+    "name": "Smile, you son of a...",
+    "firstList": "Compressed Air Tank|M1",
+    "description": "Compressed Air Tank's sharks will explode upon biting an enemy. These explosions can damage the player."
+  },
+  {
+    "name": "Snicker-snack",
+    "firstList": "Excaliber|Vorpal Bullets",
+    "description": "Excaliber fires a spread of 3 homing shots that deal 20% less damage."
+  },
+  {
+    "name": "Sniper Woof",
+    "firstList": "Wolf",
+    "numberOf": 1,
+    "secondList": "A.W.P.|Sniper Rifle|Hexagun|M1|Bow",
+    "description": "Reduces reload times of the guns by 30%. Standing still for a short time (around 1-2 seconds) causes the player to glow yellow, increasing the damage of the guns by 50%. This effect persists until the player switches weapons or moves. [[Sniper Shell]]s and [[Professional]]s are permanently charmed."
+  },
+  {
+    "name": "Snowball Shotgun",
+    "firstList": "Snowballer|Snowballets",
+    "description": "Snowballer fires multiple snowballs at once in a shotgun spread with lowered rate of fire.",
+    "lastColumn": "Snowball Shotgun.png"
+  },
+  {
+    "name": "Soft Air",
+    "firstList": "JK-47|Sponge",
+    "description": "When holding JK-47, the player regains ammo when walking over liquids. Increases range that reloading causes fear."
+  },
+  {
+    "name": "Softshell",
+    "firstList": "Brick Breaker|Stuffed Star",
+    "description": "While Stuffed Star is active, Brick Breaker shells are continually fired in random directions."
+  },
+  {
+    "name": "Solar Flare",
+    "firstList": "Mr. Accretion Jr.|Flare Gun",
+    "description": "Flare Gun pierces enemies and explodes when hitting a wall."
+  },
+  {
+    "name": "some even larger number",
+    "firstList": "Quad Laser|Triple Gun",
+    "description": "Killing an enemy with Triple Gun shoots a Quad Laser bullet from where the enemy died."
+  },
+  {
+    "name": "Space Best Friend",
+    "firstList": "Alien Engine|Space Friend",
+    "description": "Space Friend fires at a much faster rate.",
+    "lastColumn": "Space Best Friend.png"
+  },
+  {
+    "name": "Spartan Loadout",
+    "firstList": "Alien Sidearm|Cat Claw",
+    "description": " Cat Claw pierces enemies, attaching its explosive to every enemy hit. Alien Sidearm can be charged twice to fire a more powerful shot."
+  },
+  {
+    "name": "Special Delivery",
+    "firstList": "Owl",
+    "numberOf": 1,
+    "secondList": "Bundle of Wands|Witch Pistol|Hexagun|Staff of Firepower",
+    "description": "Makes the guns' shots bounce. Owl becomes skeletal in appearance and fires bouncing, letter-shaped bullets.",
+    "lastColumn": "Special Delivery.png"
+  },
+  {
+    "name": "Special Reserve",
+    "firstList": "Molotov Launcher",
+    "numberOf": 1,
+    "secondList": "Hot Lead|Napalm Strike|Double Vision",
+    "description": "Molotovs create green fire pools. Green fire does not damage the player, and enemies that touch green fire are permanently aflame.",
+    "lastColumn": "Special Reserve.png"
+  },
+  {
+    "name": "Spelunker",
+    "firstList": "Blast Helmet|Gunboots",
+    "description": "Replaces the bullet spread of Gunboots with a short-ranged explosion."
+  },
+  {
+    "name": "Spicy D-Boys",
+    "firstList": "Strafe Gun|Sunglasses",
+    "description": "Increases [[coolness]] by 2. Lights nearby enemies on fire while reloading Strafe Gun."
+  },
+  {
+    "name": "Spengbab",
+    "firstList": "Tangler|Sponge",
+    "description": "Increases the knockback and range of Tangler by 50%."
+  },
+  {
+    "name": "Square Brace",
+    "firstList": "Polaris",
+    "numberOf": 1,
+    "secondList": "Bracket Key|Bionic Leg",
+    "description": "Increases Polaris ammo capacity to 700, increases its magazine size to 30, increases damage by 20%, increases fire rate when leveled up, and changes its appearance.",
+    "lastColumn": "Square Brace.png"
+  },
+  {
+    "name": "Star Friends",
+    "firstList": "Polaris|Stuffed Star",
+    "description": "While Stuffed Star is active, the player continually fires maximum level Polaris shots in all directions."
+  },
+  {
+    "name": "Starburst Fire",
+    "firstList": "Laser Rifle|The Emperor",
+    "description": "Firing once with either weapon rapidly fires its entire magazine. Increases damage by 20% and doubles fire rate."
+  },
+  {
+    "name": "Steel Skin",
+    "firstList": "AC-15|Nanomachines",
+    "description": "AC-15 will remain in its powered-up form even if the player has no armor."
+  },
+  {
+    "name": "The Submachinist",
+    "firstList": "MAC10|Machine Pistol",
+    "description": "The guns are dual-wielded."
+  },
+  {
+    "name": "Succulent DOOM",
+    "firstList": "Cactus|Starpew",
+    "description": "Every Cactus shot fires a spread of 5 needles."
+  },
+  {
+    "name": "Super Bomberpal",
+    "firstList": "Ice Bomb|Lil' Bomber",
+    "description": "Lil' Bomber fires two bombs instead of one, charges twice as fast, and has 20% lower reload time."
+  },
+  {
+    "name": "Super Serum",
+    "firstList": "Plague Pistol|Plunger",
+    "numberOf": 1,
+    "secondList": "Gas Mask|Hazmat Suit",
+    "description": "Increases the magazine size of the guns by 50%, increases the size of their projectiles, and allows them to bounce once."
+  },
+  {
+    "name": "Super Space Turtle DX",
+    "firstList": "Super Space Turtle|Yellow Chamber",
+    "description": "Super Space Turtle becomes jammed, firing piercing shots with higher damage.",
+    "lastColumn": "Super Space Turtle DX.png"
+  },
+  {
+    "name": "Sweetness and Light",
+    "firstList": "Magic Lamp|Magic Sweet",
+    "description": "Magic Lamp gains triple shot. Each shot deals 25% of the normal damage, but the genie deals full damage."
+  },
+  {
+    "name": "Swift Sloop",
+    "firstList": "Corsair|Sense of Direction",
+    "description": "Increases Corsair's shot speed by 50%, decreases its charge time by 33%, and decreases its reload time by 20%."
+  },
+  {
+    "name": "Synthetic Shield",
+    "numberOf": 2,
+    "firstList": "Heart Synthesizer|Ammo Synthesizer|Armor Synthesizer",
+    "description": "Creates a companion that orbits the player and blocks shots. If the player has two of the three synthesizers, the companion will take the appearance of the third synthesizer. If the player has all three synthesizers, all three companions will spawn."
+  },
+  {
+    "description": "When reloading Teapot, a red aura appears around companions. Every enemy in this aura will be ignited.",
+    "firstList": "Teapot",
+    "numberOf": 1,
+    "secondList": "Ser Junkan|Wolf|Turkey|Clown Mask|Chicken Flute|Baby Good Mimic|Badge|Pig|R2G2|Baby Good Shelleton|Super Space Turtle|Blank Companion's Ring"
+  },
+  {
+    "name": "Tears of Blood",
+    "firstList": "Tear Jerker|Bloody Eye",
+    "description": "Tear Jerker's tears turn red and inflict [[slow]]."
+  },
+  {
+    "name": "Telefrag",
+    "firstList": "Chest Teleporter|Teleporter Prototype",
+    "description": "If Teleporter Prototype teleports the player to a room with enemies, all enemies in the room will be killed instantly. If it teleports the player to a special room, Teleporter Prototype's cooldown is decreased."
+  },
+  {
+    "name": "Terminated, Too",
+    "firstList": "Grenade Launcher|Potion of Lead Skin",
+    "description": "Grenade Launcher's grenades fire 8 bullets in all directions upon exploding."
+  },
+  {
+    "name": "that &^#$# 'pizza'",
+    "firstList": "Machine Fist|RPG",
+    "description": "RPG now fires remote-controlled explosive fists, just like Machine Fist. Machine Fist's bullets also bounce twice."
+  },
+  {
+    "name": "The Elephant in the Room",
+    "firstList": "Elephant Gun",
+    "numberOf": 1,
+    "secondList": "Pig|Turkey|Owl|Chicken Flute|Super Space Turtle",
+    "description": "Elephant Gun becomes an elephant head and shoots elephants instead of bullets.",
+    "lastColumn": "The Elephant in the Room.png"
+  },
+  {
+    "name": "The Return",
+    "firstList": "Pig",
+    "numberOf": 1,
+    "secondList": "Luxin Cannon|Makeshift Cannon|T-Shirt Cannon|Science Cannon|Serious Cannon|Pulse Cannon|Vulcan Cannon|Trashcannon|Poxcannon",
+    "description": "Pig fires bats and gains a green appearance.",
+    "lastColumn": "The Return.png"
+  },
+  {
+    "name": "There Is Only War",
+    "firstList": "Demon Head|Jolter",
+    "description": "Reloading Jolter causes Demon Head to fire a beam at nearby enemies."
+  },
+  {
+    "name": "Thermal Imaging",
+    "firstList": "The Predator|Sunglasses",
+    "description": "The Predator fires two lasers instead of one."
+  },
+  {
+    "name": "Thorn Bath, ooh! ",
+    "firstList": "Armor of Thorns",
+    "numberOf": 1,
+    "secondList": "Nail Gun|Cactus|Derringer",
+    "description": "While one of the guns is held, nails are periodically fired in all directions."
+  },
+  {
+    "name": "Three Part Harmony",
+    "firstList": "Really Special Lute|Metronome",
+    "description": "Really Special Lute's spread is drastically decreased."
+  },
+  {
+    "name": "Three Sheets",
+    "firstList": "Balloon Gun|Corsair",
+    "description": "Increases movement speed, doubles the damage of the guns, and increases their bullet speed by 20%."
+  },
+  {
+    "name": "Throw All Daggers",
+    "firstList": "Excaliber|Knife Shield",
+    "description": "Knife Shield generates two layers of knives upon use."
+  },
+  {
+    "name": "Thrown For A Bloop",
+    "firstList": "Blooper|Bullet Time",
+    "description": "While Bullet Time is active, a Blooper orbits the player and continually fires at enemies."
+  },
+  {
+    "name": "Tile Match",
+    "firstList": "Tetrominator",
+    "numberOf": 1,
+    "secondList": "Blue Guon Stone|Clear Guon Stone|Green Guon Stone|Orange Guon Stone|Pink Guon Stone|Red Guon Stone|White Guon Stone",
+    "description": "When the player fires Tetrominator, each Guon Stone has a chance to shoot a Tetromino corresponding to the type of Guon Stone. "
+  },
+  {
+    "name": "To Serve Android",
+    "firstList": "Badge",
+    "numberOf": 1,
+    "secondList": "Full Metal Jacket|Mass Shotgun|The Judge|Bionic Leg|Deck4rd|Grasschopper",
+    "description": "Police Officer turns into a robot and becomes unkillable.",
+    "lastColumn": "To Serve Android.png"
+  },
+  {
+    "name": "Trigger Twins",
+    "firstList": "Shades's Revolver|Smiley's Revolver",
+    "description": "The guns are dual-wielded. All guns have double ammo capacity and 50% larger magazine size."
+  },
+  {
+    "name": "Triple Jump",
+    "firstList": "Ballistic Boots|Springheel Boots",
+    "description": "Grants three consecutive dodge rolls."
+  },
+  {
+    "name": "Triple Sticky",
+    "firstList": "Triple Crossbow|Sticky Crossbow",
+    "description": "Sticky Crossbow fires three bolts per shot and its magazine size increases from 5 to 6. Triple Crossbow's triple shot explodes upon hitting an enemy."
+  },
+  {
+    "name": "Turret Link",
+    "firstList": "Portable Turret|Chance Bullets",
+    "description": "Portable Turret will sometimes fire shots from guns in the player's inventory."
+  },
+  {
+    "name": "Turtle Solutions",
+    "firstList": "Super Space Turtle|Turtle Problem",
+    "description": "Each room clear spawns another Super Space Turtle, up to a maximum of 4."
+  },
+  {
+    "name": "Tutorialized",
+    "firstList": "Old Knight's Helm|Old Knight's Shield",
+    "description": "A shield orbits the player, blocking enemy bullets. "
+  },
+  {
+    "name": "Twin Snakes",
+    "firstList": "Rattler|Snakemaker",
+    "description": "Rattler fires a spread of poison beams instead of bullets and Snakemaker fires homing shots."
+  },
+  {
+    "name": "Two Eggs Over Easy",
+    "firstList": "The Scrambler|Weird Egg",
+    "description": "The Scrambler's homing shots will cause poison."
+  },
+  {
+    "name": "Two Heavy",
+    "firstList": "Crown of Guns|Coin Crown",
+    "description": "Doubles the chance for Coin Crown to spawn money upon completing a room."
+  },
+  {
+    "name": "Two Kinds of People",
+    "firstList": "Knight's Gun|Colt 1851",
+    "description": "Improves the items and pickups dug up by Knight's Gun."
+  },
+  {
+    "name": "Unbelievably Charming",
+    "firstList": "Charmed Bow|Shotgun Full of Love",
+    "numberOf": 1,
+    "secondList": "Charming Rounds|Pink Guon Stone",
+    "description": "All of the shots fired by Charmed Bow/Shotgun Full of Love are guaranteed to charm enemies. In addition, the player is followed by a fairy that blocks bullets and displays the contents of chests.",
+    "lastColumn": "Unbelievably Charming.png"
+  },
+  {
+    "name": "Unsinkable",
+    "firstList": "Corsair|Glacier",
+    "description": "Corsair fires exploding Titanic ships."
+  },
+  {
+    "name": "Usurper",
+    "firstList": "Crown of Guns|Cat Bullet King Throne",
+    "description": "Crown of Guns fires more bullets, and Cat Bullet King Throne fires full-sized bullets instead of mini-bullets."
+  },
+  {
+    "name": "Vegetables",
+    "firstList": "Broccoli",
+    "numberOf": 1,
+    "secondList": "Pea Shooter|Cactus",
+    "description": "Shots from the guns deal triple damage, are doubled in size, pierce enemies, and bounce off of obstacles."
+  },
+  {
+    "name": "Venom Veins",
+    "firstList": "Mutation",
+    "numberOf": 1,
+    "secondList": "Monster Blood|Bloody Eye|Bloody 9mm|Bloodied Scarf|Blood Brooch",
+    "description": "Gives Mutation poison effect."
+  },
+  {
+    "name": "The Void Corps",
+    "numberOf": 2,
+    "firstList": "Void Shotgun|Void Core Assault Rifle|Void Core Cannon",
+    "description": "When one of the guns is held, the other(s) orbit the player. Whenever the player reloads, the orbiting gun(s) fire towards the crosshair."
+  },
+  {
+    "name": "Vulcan Raving",
+    "firstList": "Vulcan Cannon|Wax Wings",
+    "description": "Increases knockback by 50%."
+  },
+  {
+    "name": "Wave Beam",
+    "firstList": "Heroine|Shock Rounds",
+    "description": "Enables Wave Beam mode, which fires two wavy projectiles connected by electricity when uncharged, and a standard large Heroine shot when charged. Modes can be switched by reloading Heroine with a full magazine. ",
+    "lastColumn": "Wave Beam.png"
+  },
+  {
+    "name": "Weird Science",
+    "firstList": "Disintegrator|Science Cannon",
+    "description": "Three Science Cannon beams branch off perpendicular to Disintegrator's main beam."
+  },
+  {
+    "name": "Well Dressed",
+    "firstList": "Poxcannon|T-Shirt Cannon",
+    "description": "Both guns fire explosive wardrobes at the end of their magazines."
+  },
+  {
+    "name": "Whale of a Time",
+    "firstList": "GuNNER|Backpack",
+    "description": "Also has a chance to spawn a healing skull if a weapon other than GuNNER is equipped when the player takes damage."
+  },
+  {
+    "name": "What A Thrill",
+    "firstList": "Patriot",
+    "numberOf": 1,
+    "secondList": "Ration|Cigarettes|Fortune's Favor|Ancient Hero's Bandana|Box",
+    "description": "Patriot has a chance to transmogrify enemies into snakes."
+  },
+  {
+    "name": "what engine do you use",
+    "firstList": "Gungine|Unity",
+    "description": "Gungine fires a spread of three bullets per shot, but fires at 1/5th of its original speed."
+  },
+  {
+    "name": "Whiter Guon Stone",
+    "firstList": "White Guon Stone",
+    "numberOf": 1,
+    "secondList": "+1 Bullets|Flash Ray|Amulet of the Pit Lord",
+    "description": "Increases the size of White Guon Stone. If the player has [[Daruma]], its cooldown is halved."
+  },
+  {
+    "name": "Why's Bullet Crying?",
+    "firstList": "Cold 45|Frost Giant",
+    "description": "Attacking a frozen enemy with one of the guns causes a yeti to attack it, dealing high damage."
+  },
+  {
+    "name": "Wicked Sister",
+    "firstList": "Magnum",
+    "numberOf": 1,
+    "secondList": "Lies|Briefcase of Cash",
+    "description": "Magnum gains a bayonet that blocks bullets when reloading, similar to Huntsman.",
+    "lastColumn": "Wicked Sister.png|90px"
+  },
+  {
+    "name": "Willing To Sacrifice",
+    "firstList": "Freeze Ray",
+    "numberOf": 1,
+    "secondList": "Ice Cube|Heart of Ice|Frost Bullets",
+    "description": "Freeze Ray gains piercing and slowly regenerates ammo over time."
+  },
+  {
+    "name": "Worlds of Guncraft",
+    "firstList": "Mr. Accretion Jr.|Gunderfury",
+    "description": "Gunderfury will occasionally fire Mr. Accretion Jr. shots."
+  },
+  {
+    "name": "Wound Up",
+    "firstList": "Wind Up Gun|Oiled Cylinder",
+    "description": "The damage and piercing of Wind Up Gun never decreases. Increases damage and bullet size by 25%."
+  },
+  {
+    "name": "Wrath Of The Blam",
+    "firstList": "Tear Jerker|Directional Pad",
+    "description": "Tear Jerker is replaced with a crying bullet head that can only fire in cardinal directions, but deals double damage.",
+    "lastColumn": "Wrath Of The Blam.png"
+  },
+  {
+    "name": "y cant u crawl",
+    "firstList": "Heroine|Roll Bomb",
+    "description": "While Heroine is equipped, increases the size of Roll Bomb's explosions."
+  },
+  {
+    "name": "\\o\\/",
+    "firstList": "Sunlight Javelin",
+    "numberOf": 1,
+    "secondList": "Gun Soul|Old Knight's Flask",
+    "description": "When Sunlight Javelin kills an enemy, it will spawn a circular zone that ignites all enemies within it."
+  },
+  {
+    "name": " ",
+    "firstList": "Klobbe|Cog of Battle",
+    "description": "This is a hidden synergy. It doesn't have a name and the blue arrow won't appear."
+  }
+]

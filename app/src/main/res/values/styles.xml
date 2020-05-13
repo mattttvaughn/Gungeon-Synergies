@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/lato</item>
+    </style>
+
+    <style name="TextAppearance.Title" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/textPrimary</item>
+        <item name="fontFamily">@font/lato_bold</item>
+    </style>
+
+    <style name="TextAppearance.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+
+    <style name="TextAppearance.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/textSecondary</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="TextAppearance.TrackItemText" parent="TextAppearance.Body1">
+        <item name="android:fontFamily">@font/lato_bold</item>
+    </style>
+
+    <style name="TextAppearance.RoundedRectInput" parent="Widget.AppCompat.EditText">
+        <item name="android:paddingLeft">@dimen/rounded_input_padding_horizontal</item>
+        <item name="android:paddingRight">@dimen/rounded_input_padding_horizontal</item>
+        <item name="android:paddingTop">@dimen/rounded_input_padding_vertical</item>
+        <item name="android:paddingBottom">@dimen/rounded_input_padding_vertical</item>
+        <item name="android:background">@drawable/rounded_rect_form</item>
+        <item name="android:minEms">15</item>
+    </style>
+
+
+
+    <style name="TextAppearance.Subtitle.Settings" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="fontFamily">@font/lato_bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <!-- Bottom Navigation -->
+    <style name="Widget.BottomNavigationView" parent="Widget.Design.BottomNavigationView">
+        <item name="fontFamily">@font/lato_bold</item>
+    </style>
+
+</resources>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.ui:ui-animation:0.1.0-dev10@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dca2bf8fbb21aea5b1a02559fb7cdf01/jetified-ui-animation-0.1.0-dev10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dca2bf8fbb21aea5b1a02559fb7cdf01/jetified-ui-animation-0.1.0-dev10/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.ui/ui-animation/0.1.0-dev10/51adbf764652385b7dac1c2ac876a8a2c74c121f/ui-animation-0.1.0-dev10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

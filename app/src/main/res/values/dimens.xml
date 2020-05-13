@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common dimensions -->
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_large">32dp</dimen> <!-- aka large_marge -->
+    <dimen name="spacing_normal">8dp</dimen>
+    <dimen name="spacing_micro">4dp</dimen>
+
+    <dimen name="keyline_x_offset">64dp</dimen>
+    <dimen name="button_padding">8dp</dimen>
+
+    <!-- Style -->
+    <dimen name="app_bar_height">72dp</dimen>
+    <dimen name="bottom_bar_height">56dp</dimen>
+    <dimen name="default_canvas_size">222dp</dimen>
+
+
+    <dimen name="colorpicker_slider_height">4dp</dimen>
+
+    <!-- EditText-->
+    <dimen name="rounded_input_padding_vertical">16dp</dimen>
+    <dimen name="rounded_input_padding_horizontal">24dp</dimen>
+
+    <!-- Device dependent -->
+    <dimen name="screen_horizontal_padding">16dp</dimen>
+    <dimen name="screen_vertical_padding">16dp</dimen>
+    <dimen name="top_level_icon">32dp</dimen>
+    <dimen name="increment_preference_icon">42dp</dimen>
+    <dimen name="preference_row_height">64dp</dimen>
+    <dimen name="details_gradient_radius">16dp</dimen>
+
+</resources>

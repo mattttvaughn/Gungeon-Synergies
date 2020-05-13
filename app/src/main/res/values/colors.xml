@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F9F8FD</color>
+    <color name="colorPrimaryDark">#88214C</color>
+    <color name="colorAccent">#341269</color>
+    <color name="textPrimary">#DDFFFFFF</color>
+    <color name="textSecondary">#80FFFFFF</color>
+    <color name="iconPrimary">#FFFFFF</color>
+
+    <color name="background">#FF231B29</color>
+    <color name="searchBoxTint">#4DB7B7B7</color>
+    <color name="searchText">#CCFFFFFF</color>
+    <color name="searchIcon">#D6FFFFFF</color>
+    <color name="titleText">#D9FFFFFF</color>
+
+
+
+    <!-- The gradient "start" is the top-left corner in the mockup -->
+    <color name="resting_gradient_start">#FF416C</color>
+    <color name="resting_gradient_end">#FF4B2B</color>
+    <color name="active_gradient_start">#FC5C7D</color>
+    <color name="active_gradient_end">#EECDA3</color>
+    <color name="finished_gradient_start">#A8FF78</color>
+    <color name="finished_gradient_end">#78FFD6</color>
+</resources>

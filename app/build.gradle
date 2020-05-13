@@ -1,0 +1,144 @@
+apply plugin: "com.android.application"
+apply plugin: "kotlin-android"
+apply plugin: "kotlin-kapt"
+apply plugin: "kotlin-android-extensions"
+apply plugin: "com.google.android.gms.oss-licenses-plugin"
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+    defaultConfig {
+        applicationId "io.github.mattpvaughn.synergies"
+        minSdkVersion 21
+        targetSdkVersion 29
+        versionCode 5
+        versionName "0.23"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro"
+        }
+        debug {
+            applicationIdSuffix ".debug"
+            debuggable true
+        }
+    }
+    viewBinding {
+        enabled = true
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8.toString()
+    }
+    // Shared code b/w test and androidTest: mocks 'n' stuff
+    sourceSets {
+        final String SHARED_TEST_DIR = "src/testShared/java"
+        test {
+            java.srcDirs += SHARED_TEST_DIR
+        }
+        androidTest {
+            java.srcDirs += SHARED_TEST_DIR
+        }
+    }
+    kapt {
+        arguments {
+            arg("room.schemaLocation", "$projectDir/schemas".toString())
+            arg("room.incremental", "true")
+            arg("room.expandProjection", "true")
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ["*.jar"], dir: "libs")
+
+    // Kotlin
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
+
+    // Material components
+    implementation "com.google.android.material:material:$materialLibVersion"
+    implementation "androidx.appcompat:appcompat:$supportlibVersion"
+    implementation "androidx.constraintlayout:constraintlayout:2.0.0-beta5"
+
+    // Jetpack compose
+    def ui_version = "0.1.0-dev10"
+
+    implementation "androidx.ui:ui-tooling:$ui_version"
+    implementation "androidx.ui:ui-layout:$ui_version"
+    implementation "androidx.ui:ui-material:$ui_version"
+
+
+    // AndroidX
+    implementation "androidx.annotation:annotation:$androidxAnnotationVersion"
+    implementation "androidx.lifecycle:lifecycle-extensions:$lifecycleVersion"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycleVersion"
+
+    // Retrofit
+    implementation "com.squareup.retrofit2:retrofit:$retrofitVersion"
+    implementation 'com.squareup.retrofit2:converter-moshi:2.8.1'
+    implementation "com.squareup.moshi:moshi-kotlin:1.9.2"
+    kapt 'com.squareup.moshi:moshi-kotlin-codegen:1.9.2'
+
+    // Kotlin coroutines
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutinesVersion"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutinesVersion"
+
+    // OkHttp
+    implementation "com.squareup.okhttp3:okhttp:$okhttpVersion"
+    implementation "com.squareup.okhttp3:logging-interceptor:$okhttpVersion"
+
+    // Room DB manager
+    implementation "androidx.room:room-runtime:$roomVersion"
+    implementation "androidx.room:room-ktx:$roomVersion"
+    kapt "androidx.room:room-compiler:$roomVersion"
+
+    // Dagger dependency injection
+    implementation "com.google.dagger:dagger:$daggerVersion"
+    kapt "com.google.dagger:dagger-compiler:$daggerVersion"
+
+    // Glide
+    implementation "com.github.bumptech.glide:glide:$glideVersion"
+    kapt "com.github.bumptech.glide:compiler:$glideVersion"
+
+    // LocalBroadcastManager
+//    implementation "androidx.localbroadcastmanager:localbroadcastmanager:$localBroadcastManagerVersion"
+//
+    // WorkManager helps coordinate background syncing of local data w.r.t. network conditions
+//    implementation "androidx.work:work-runtime-ktx:$workVersion"
+
+    // Android team's license displaying library- creates an activity showing all dependencies
+    // by pulling from maven
+    implementation "com.google.android.gms:play-services-oss-licenses:$ossLicenseActivityVersion"
+
+    // Paging library
+//    implementation 'android.arch.paging:runtime:1.0.1'
+
+    /* ~~~~~~~~~~~~ Local Tests ~~~~~~~~~~ */
+    testImplementation "junit:junit:$junitVersion"
+    testImplementation "androidx.test.ext:junit-ktx:$androidXTestExtKotlinRunnerVersion"
+    testImplementation "androidx.test:core-ktx:$androidXTestCoreVersion"
+    testImplementation "org.robolectric:robolectric:$robolectricVersion"
+    testImplementation "androidx.room:room-testing:$roomVersion"
+    testImplementation "androidx.arch.core:core-testing:$archTestingVersion"
+    testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutinesVersion"
+    testImplementation "org.hamcrest:hamcrest-all:$hamcrestVersion"
+    testImplementation "io.mockk:mockk:$mockKVersion"
+
+    /* ~~~~~~~~~~~~ Instrumented tests ~~~~~~~~~~ */
+    androidTestImplementation "junit:junit:$junitVersion"
+    androidTestImplementation "androidx.test:runner:$androidxTestRunnerVersion"
+    androidTestImplementation "androidx.test:rules:$androidxTestRunnerVersion"
+    androidTestImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutinesVersion"
+    androidTestImplementation "androidx.test.ext:junit:$androidXTestExtKotlinRunnerVersion"
+    androidTestImplementation "androidx.test.ext:junit-ktx:$androidXTestExtKotlinRunnerVersion"
+    androidTestImplementation "androidx.test.espresso:espresso-core:$espressoVersion"
+    androidTestImplementation "androidx.test.espresso:espresso-contrib:$espressoVersion"
+    androidTestImplementation "io.mockk:mockk-android:$mockKVersion"
+    androidTestImplementation "com.google.dagger:dagger:$daggerVersion"
+    kaptAndroidTest "com.google.dagger:dagger-compiler:$daggerVersion"
+
+}
